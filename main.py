@@ -15,6 +15,8 @@ API_ENDPOINT = "/api/v4/contest/"
 # Get the API key from environment variable
 API_KEY = os.environ.get("CLIST_API_KEY")
 
+print(API_KEY)
+
 if not API_KEY:
     logging.error("CLIST_API_KEY environment variable is not set")
     raise ValueError("CLIST_API_KEY environment variable is not set")
@@ -95,7 +97,7 @@ logging.info(f"Finished fetching data. Total pages processed: {page_count}")
 
 # Sort problems by rating in descending order
 logging.info("Sorting problems by rating...")
-sorted_problems = sorted(all_problems, key=lambda x: x["rating"], reverse=True)
+sorted_problems = sorted(all_problems, key=lambda x: x["rating"], reverse=False)
 
 # Generate Markdown file
 md_file = "README.md"
