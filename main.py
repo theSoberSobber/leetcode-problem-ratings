@@ -52,7 +52,8 @@ def process_problems(data):
                 "title": problem["name"],
                 "url": problem["url"],
                 "rating": problem.get("rating", 0),  # Use 0 if rating is not available
-                "contest": contest_name
+                "contest": contest_name,
+                "difficulty": problem["difficulty"]
             })
     logging.info(f"Total problems processed so far: {len(all_problems)}")
 
@@ -69,7 +70,7 @@ start_time = time.time()
 while "next" in data["meta"] and data["meta"]["next"]:
     page_count += 1
     logging.info(f"Fetching page {page_count}")
-    
+
     # Check rate limit
     if requests_made >= 10:
         elapsed_time = time.time() - start_time
@@ -79,12 +80,12 @@ while "next" in data["meta"] and data["meta"]["next"]:
             time.sleep(sleep_time)
         requests_made = 0
         start_time = time.time()
-    
+
     next_url = urljoin(BASE_URL, data["meta"]["next"])
     data = fetch_data(next_url)
     process_problems(data)
     requests_made += 1
-    
+
     # Check if we've reached the end
     if not data["objects"]:
         logging.info("No more objects found. This is the last page.")
@@ -96,28 +97,33 @@ logging.info(f"Finished fetching data. Total pages processed: {page_count}")
 logging.info("Sorting problems by rating...")
 sorted_problems = sorted(all_problems, key=lambda x: x["rating"], reverse=True)
 
-# Check if docs folder exists
-docs_folder = "docs"
-if not os.path.exists(docs_folder):
-    logging.warning(f"'{docs_folder}' folder does not exist. Creating files in the current directory.")
-    docs_folder = "."
-
 # Generate Markdown file
-md_file = os.path.join(docs_folder, "README.md")
+md_file = "README.md"
 logging.info(f"Generating Markdown file: {md_file}")
 with open(md_file, "w") as f:
     f.write("# LeetCode Problems Sorted by Rating\n\n")
+    f.write("[![Fetch LeetCode Contest Data](https://github.com/theSoberSobber/leetcode-problem-ratings/actions/workflows/main.yml/badge.svg)](https://github.com/theSoberSobber/leetcode-problem-ratings/actions/workflows/main.yml)\n\n")
     for problem in sorted_problems:
-        f.write(f"- [{problem['title']}]({problem['url']}) (Rating: {problem['rating']}, Contest: {problem['contest']})\n")
+        f.write(f"- [{problem['title']}]({problem['url']}) (Rating: {problem['rating']}, Difficulty: {problem['difficulty']}, Contest: {problem['contest']})\n")
 
 logging.info(f"Markdown file '{md_file}' has been generated.")
 
 # Generate JSON file
+docs_folder = "docs"
+if not os.path.exists(docs_folder):
+    os.makedirs(docs_folder)
+
 json_file = os.path.join(docs_folder, "leetcode_problems.json")
 logging.info(f"Generating JSON file: {json_file}")
 json_data = {
     "problems": [
-        {"title": p["title"], "url": p["url"], "rating": p["rating"]}
+        {
+            "title": p["title"],
+            "url": p["url"],
+            "rating": p["rating"],
+            "difficulty": p["difficulty"],
+            "contest": p["contest"]
+        }
         for p in sorted_problems
     ]
 }
