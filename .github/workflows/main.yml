@@ -22,7 +22,7 @@ jobs:
         playwright install
 
     - name: Run Python script
-      run: python main.py
+      run: python maybe.py
 
     - name: Exit
       run: echo "Completed the workflow!"
