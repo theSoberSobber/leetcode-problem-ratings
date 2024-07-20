@@ -1,28 +1,29 @@
-name: Run Playwright Test
+name: Fetch LeetCode Contest Data
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # This allows manual triggering
 
 jobs:
-  test:
+  fetch-data:
     runs-on: ubuntu-latest
-    
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
+    - uses: actions/checkout@v2
+    
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v2
       with:
-        python-version: '3.10'  # or the version of Python you need
-
-    - name: Install Playwright
+        python-version: '3.x'
+    
+    - name: Install dependencies
       run: |
         pip install playwright
         playwright install
-
-    - name: Run Python script
-      run: python maybe.py
-
-    - name: Exit
-      run: echo "Completed the workflow!"
+    
+    - name: Run data fetching script
+      run: python actual.py
+    
+    - name: Archive contest data
+      uses: actions/upload-artifact@v2
+      with:
+        name: contest-data
+        path: contest_data/
