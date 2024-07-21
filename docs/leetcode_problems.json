@@ -4565,6 +4565,13 @@
       "contest": "Weekly Contest 181"
     },
     {
+      "title": "Minimum Operations to Make Array Equal to Target",
+      "url": "https://leetcode.com/contest/weekly-contest-407/problems/minimum-operations-to-make-array-equal-to-target",
+      "rating": 1879,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 407"
+    },
+    {
       "title": "Partition Array for Maximum Sum",
       "url": "https://leetcode.com/contest/weekly-contest-136/problems/partition-array-for-maximum-sum",
       "rating": 1878,
@@ -10613,6 +10620,13 @@
       "contest": "Weekly Contest 360"
     },
     {
+      "title": "Maximum Number of Operations to Move Ones to the End",
+      "url": "https://leetcode.com/contest/weekly-contest-407/problems/maximum-number-of-operations-to-move-ones-to-the-end",
+      "rating": 1222,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 407"
+    },
+    {
       "title": "Repeated String Match",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-52/problems/repeated-string-match",
       "rating": 1219,
@@ -11297,6 +11311,13 @@
       "rating": 1128,
       "difficulty": "easy",
       "contest": "Biweekly Contest 121"
+    },
+    {
+      "title": "Vowels Game in a String",
+      "url": "https://leetcode.com/contest/weekly-contest-407/problems/vowels-game-in-a-string",
+      "rating": 1128,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 407"
     },
     {
       "title": "Minimum Number of Operations to Move All Balls to Each Box",
@@ -13705,6 +13726,13 @@
       "rating": 729,
       "difficulty": "easy",
       "contest": "Weekly Contest 313"
+    },
+    {
+      "title": "Number of Bit Changes to Make Two Integers Equal",
+      "url": "https://leetcode.com/contest/weekly-contest-407/problems/number-of-bit-changes-to-make-two-integers-equal",
+      "rating": 729,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 407"
     },
     {
       "title": "Permutation Difference between Two Strings",
