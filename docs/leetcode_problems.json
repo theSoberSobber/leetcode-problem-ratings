@@ -31,7 +31,7 @@
     {
       "title": "Maximum Score From Grid Operations",
       "url": "https://leetcode.com/contest/biweekly-contest-135/problems/maximum-score-from-grid-operations",
-      "rating": 2994,
+      "rating": 2998,
       "difficulty": "hard",
       "contest": "Biweekly Contest 135"
     },
@@ -2962,6 +2962,13 @@
       "contest": "Weekly Contest 364"
     },
     {
+      "title": "Minimum Operations to Make Array Equal to Target",
+      "url": "https://leetcode.com/contest/weekly-contest-407/problems/minimum-operations-to-make-array-equal-to-target",
+      "rating": 2076,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 407"
+    },
+    {
       "title": "Count The Repetitions",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-11/problems/count-the-repetitions",
       "rating": 2075,
@@ -3907,13 +3914,6 @@
       "contest": "Weekly Contest 332"
     },
     {
-      "title": "Minimum Array Changes to Make Differences Equal",
-      "url": "https://leetcode.com/contest/biweekly-contest-135/problems/minimum-array-changes-to-make-differences-equal",
-      "rating": 1954,
-      "difficulty": "medium",
-      "contest": "Biweekly Contest 135"
-    },
-    {
       "title": "Jump Game VI",
       "url": "https://leetcode.com/contest/weekly-contest-220/problems/jump-game-vi",
       "rating": 1953,
@@ -3954,6 +3954,13 @@
       "rating": 1952,
       "difficulty": "medium",
       "contest": "Weekly Contest 92"
+    },
+    {
+      "title": "Minimum Array Changes to Make Differences Equal",
+      "url": "https://leetcode.com/contest/biweekly-contest-135/problems/minimum-array-changes-to-make-differences-equal",
+      "rating": 1952,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 135"
     },
     {
       "title": "Furthest Building You Can Reach",
@@ -4563,13 +4570,6 @@
       "rating": 1879,
       "difficulty": "hard",
       "contest": "Weekly Contest 181"
-    },
-    {
-      "title": "Minimum Operations to Make Array Equal to Target",
-      "url": "https://leetcode.com/contest/weekly-contest-407/problems/minimum-operations-to-make-array-equal-to-target",
-      "rating": 1879,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 407"
     },
     {
       "title": "Partition Array for Maximum Sum",
@@ -7771,6 +7771,13 @@
       "contest": "Biweekly Contest 81"
     },
     {
+      "title": "Maximum Number of Operations to Move Ones to the End",
+      "url": "https://leetcode.com/contest/weekly-contest-407/problems/maximum-number-of-operations-to-move-ones-to-the-end",
+      "rating": 1551,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 407"
+    },
+    {
       "title": "Maximum Number of Moves in a Grid",
       "url": "https://leetcode.com/contest/weekly-contest-345/problems/maximum-number-of-moves-in-a-grid",
       "rating": 1550,
@@ -9542,6 +9549,13 @@
       "contest": "Weekly Contest 324"
     },
     {
+      "title": "Vowels Game in a String",
+      "url": "https://leetcode.com/contest/weekly-contest-407/problems/vowels-game-in-a-string",
+      "rating": 1356,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 407"
+    },
+    {
       "title": "Form Array by Concatenating Subarrays of Another Array",
       "url": "https://leetcode.com/contest/biweekly-contest-46/problems/form-array-by-concatenating-subarrays-of-another-array",
       "rating": 1355,
@@ -9691,7 +9705,7 @@
     {
       "title": "Minimum Length of String After Operations",
       "url": "https://leetcode.com/contest/biweekly-contest-135/problems/minimum-length-of-string-after-operations",
-      "rating": 1334,
+      "rating": 1333,
       "difficulty": "medium",
       "contest": "Biweekly Contest 135"
     },
@@ -10620,13 +10634,6 @@
       "contest": "Weekly Contest 360"
     },
     {
-      "title": "Maximum Number of Operations to Move Ones to the End",
-      "url": "https://leetcode.com/contest/weekly-contest-407/problems/maximum-number-of-operations-to-move-ones-to-the-end",
-      "rating": 1222,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 407"
-    },
-    {
       "title": "Repeated String Match",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-52/problems/repeated-string-match",
       "rating": 1219,
@@ -11311,13 +11318,6 @@
       "rating": 1128,
       "difficulty": "easy",
       "contest": "Biweekly Contest 121"
-    },
-    {
-      "title": "Vowels Game in a String",
-      "url": "https://leetcode.com/contest/weekly-contest-407/problems/vowels-game-in-a-string",
-      "rating": 1128,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 407"
     },
     {
       "title": "Minimum Number of Operations to Move All Balls to Each Box",
@@ -13196,6 +13196,13 @@
       "contest": "Weekly Contest 137"
     },
     {
+      "title": "Number of Bit Changes to Make Two Integers Equal",
+      "url": "https://leetcode.com/contest/weekly-contest-407/problems/number-of-bit-changes-to-make-two-integers-equal",
+      "rating": 815,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 407"
+    },
+    {
       "title": "Count Hills and Valleys in an Array",
       "url": "https://leetcode.com/contest/weekly-contest-285/problems/count-hills-and-valleys-in-an-array",
       "rating": 814,
@@ -13728,13 +13735,6 @@
       "contest": "Weekly Contest 313"
     },
     {
-      "title": "Number of Bit Changes to Make Two Integers Equal",
-      "url": "https://leetcode.com/contest/weekly-contest-407/problems/number-of-bit-changes-to-make-two-integers-equal",
-      "rating": 729,
-      "difficulty": "easy",
-      "contest": "Weekly Contest 407"
-    },
-    {
       "title": "Permutation Difference between Two Strings",
       "url": "https://leetcode.com/contest/weekly-contest-397/problems/permutation-difference-between-two-strings",
       "rating": 728,
@@ -13989,7 +13989,7 @@
     {
       "title": "Find the Winning Player in Coin Game",
       "url": "https://leetcode.com/contest/biweekly-contest-135/problems/find-the-winning-player-in-coin-game",
-      "rating": 694,
+      "rating": 692,
       "difficulty": "easy",
       "contest": "Biweekly Contest 135"
     },
