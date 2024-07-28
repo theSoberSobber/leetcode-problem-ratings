@@ -673,6 +673,13 @@
       "contest": "Weekly Contest 245"
     },
     {
+      "title": "Count the Number of Substrings With Dominant Ones",
+      "url": "https://leetcode.com/contest/weekly-contest-408/problems/count-the-number-of-substrings-with-dominant-ones",
+      "rating": 2493,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 408"
+    },
+    {
       "title": "Maximum Employees to Be Invited to a Meeting",
       "url": "https://leetcode.com/contest/weekly-contest-274/problems/maximum-employees-to-be-invited-to-a-meeting",
       "rating": 2490,
@@ -1868,6 +1875,13 @@
       "rating": 2239,
       "difficulty": "hard",
       "contest": "Weekly Contest 123"
+    },
+    {
+      "title": "Check if the Rectangle Corner Is Reachable",
+      "url": "https://leetcode.com/contest/weekly-contest-408/problems/check-if-the-rectangle-corner-is-reachable",
+      "rating": 2239,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 408"
     },
     {
       "title": "Count Palindromic Subsequences",
@@ -11131,6 +11145,13 @@
       "contest": "Weekly Contest 165"
     },
     {
+      "title": "Find the Count of Numbers Which Are Not Special",
+      "url": "https://leetcode.com/contest/weekly-contest-408/problems/find-the-count-of-numbers-which-are-not-special",
+      "rating": 1157,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 408"
+    },
+    {
       "title": "Magic Squares In Grid",
       "url": "https://leetcode.com/contest/weekly-contest-86/problems/magic-squares-in-grid",
       "rating": 1156,
@@ -15273,6 +15294,13 @@
       "rating": 360,
       "difficulty": "easy",
       "contest": "Biweekly Contest 44"
+    },
+    {
+      "title": "Find if Digit Game Can Be Won",
+      "url": "https://leetcode.com/contest/weekly-contest-408/problems/find-if-digit-game-can-be-won",
+      "rating": 359,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 408"
     },
     {
       "title": "Maximum Product Difference Between Two Pairs",
