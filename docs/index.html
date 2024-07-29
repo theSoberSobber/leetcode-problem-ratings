@@ -63,6 +63,23 @@
                 margin-bottom: -0.5rem !important;
             }
         }
+
+        .virtual-contest-button {
+            /* position: absolute;
+            top: 15px;
+            right: 15px; */
+            margin-bottom: 1rem;
+            width: 100%;
+            z-index: 1000;
+
+        }
+
+        @media (max-width: 576px) {
+            .virtual-contest-button {
+                top: 10px;
+                right: 10px;
+            }
+        }
     </style>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-B8RBMWYPPX"></script>
@@ -76,26 +93,28 @@
 </head>
 <body>
     <div class="container mt-5">
-        <h1><a href="https://thesobersobber.github.io/leetcode-problem-ratings/" class="text-primary text-decoration-none">LeetCode Problems</a></h1>
+        <div class="position-relative">
+            <h1><a href="https://thesobersobber.github.io/leetcode-problem-ratings/" class="text-primary text-decoration-none">LeetCode Problems</a></h1>
+            <a href="virtual.html" class="btn btn-outline-primary virtual-contest-button">Virtual Contest</a>
+            <div class="input-group-custom mb-3">
+                <div class="input-group mb-2">
+                    <span class="input-group-text">Rating interval</span>
+                    <input type="number" class="form-control" id="minRating" placeholder="Min" aria-label="Min" value="0">
+                    <span class="input-group-text">-</span>
+                    <input type="number" class="form-control" id="maxRating" placeholder="Max" aria-label="Max" value="4000">
+                </div>
+                <div class="btn-group-custom">
+                    <button class="btn btn-outline-primary mb-2" id="filterButton" type="button">Filter</button>
+                    <button class="btn btn-outline-secondary mb-2" id="randomButton" type="button">Random</button>
+                    <button class="btn btn-outline-secondary mb-2" id="allButton" type="button">All</button>
+                </div>
+            </div>
 
-        <div class="input-group-custom mb-3">
-            <div class="input-group mb-2">
-                <span class="input-group-text">Rating interval</span>
-                <input type="number" class="form-control" id="minRating" placeholder="Min" aria-label="Min" value="0">
-                <span class="input-group-text">-</span>
-                <input type="number" class="form-control" id="maxRating" placeholder="Max" aria-label="Max" value="4000">
-            </div>
-            <div class="btn-group-custom">
-                <button class="btn btn-outline-primary mb-2" id="filterButton" type="button">Filter</button>
-                <button class="btn btn-outline-secondary mb-2" id="randomButton" type="button">Random</button>
-                <button class="btn btn-outline-secondary mb-2" id="allButton" type="button">All</button>
-            </div>
+            <div id="problem-list" class="list-group mt-4"></div>
+            <nav aria-label="Page navigation" class="mt-4">
+                <ul class="pagination justify-content-center" id="pagination"></ul>
+            </nav>
         </div>
-
-        <div id="problem-list" class="list-group mt-4"></div>
-        <nav aria-label="Page navigation" class="mt-4">
-            <ul class="pagination justify-content-center" id="pagination"></ul>
-        </nav>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
