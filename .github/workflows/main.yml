@@ -3,10 +3,11 @@ name: Update LeetCode Problems
 on:
   workflow_dispatch:  # Allows manual triggering
   schedule:
-    # Runs at 10 PM IST (4:30 PM UTC) on every other Saturday (starting from July 20, 2024)
-    - cron: '30 16 */14 * 6'
-    # Runs at 10 AM IST (4:30 AM UTC) every Sunday
-    - cron: '30 4 * * 0'
+    # Runs at 10:30 PM IST (5:00 PM UTC) every other Saturday
+    - cron: '30 17 */14 * 6'
+    
+    # Runs at 10:30 AM IST (5:00 AM UTC) every Sunday
+    - cron: '30 5 * * 0'
 
 jobs:
   update-problems:
