@@ -2,6 +2,7 @@ const CACHE_NAME = 'leetcode-cache-v1';
 const urlsToCache = [
     './',
     './index.html',
+    './virtual.html',
     './leetcode_problems.json',
     'https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css',
     'https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js',
