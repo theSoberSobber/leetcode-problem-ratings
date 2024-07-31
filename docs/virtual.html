@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Participate in a virtual coding contest with randomly selected LeetCode problems. Track your progress, solve problems, and view your final report.">
     <meta name="keywords" content="Virtual Contest, LeetCode, Coding Practice, Programming Contest, Problem Solving, Competitive Programming">
-    <meta name="author" content="theSoberSobber">
+    <meta name="author" content="RangeyBhakt">
     <meta property="og:title" content="Virtual Contest - LeetCode Practice">
     <meta property="og:description" content="Join a virtual coding contest, solve LeetCode problems, and track your performance with a detailed final report. Challenge yourself and improve your coding skills.">
     <meta property="og:type" content="website">
@@ -126,7 +126,7 @@
         let solvedProblems = [];
 
         async function fetchProblems() {
-            const response = await fetch('https://thesobersobber.github.io/leetcode-problem-ratings/leetcode_problems.json');
+            const response = await fetch('./leetcode_problems.json');
             const data = await response.json();
             problems = data.problems;
         }
