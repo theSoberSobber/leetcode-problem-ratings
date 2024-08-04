@@ -1,11 +1,25 @@
 {
   "problems": [
     {
+      "title": "Check if the Rectangle Corner Is Reachable",
+      "url": "https://leetcode.com/contest/weekly-contest-408/problems/check-if-the-rectangle-corner-is-reachable",
+      "rating": 3765,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 408"
+    },
+    {
       "title": "Earliest Second to Mark Indices II",
       "url": "https://leetcode.com/contest/weekly-contest-386/problems/earliest-second-to-mark-indices-ii",
       "rating": 3125,
       "difficulty": "hard",
       "contest": "Weekly Contest 386"
+    },
+    {
+      "title": "Alternating Groups III",
+      "url": "https://leetcode.com/contest/weekly-contest-409/problems/alternating-groups-iii",
+      "rating": 3109,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 409"
     },
     {
       "title": "Number Of Ways To Reconstruct A Tree",
@@ -554,6 +568,13 @@
       "contest": "Biweekly Contest 54"
     },
     {
+      "title": "Count the Number of Substrings With Dominant Ones",
+      "url": "https://leetcode.com/contest/weekly-contest-408/problems/count-the-number-of-substrings-with-dominant-ones",
+      "rating": 2556,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 408"
+    },
+    {
       "title": "Count Pairs With XOR in a Range",
       "url": "https://leetcode.com/contest/weekly-contest-233/problems/count-pairs-with-xor-in-a-range",
       "rating": 2552,
@@ -587,6 +608,13 @@
       "rating": 2543,
       "difficulty": "hard",
       "contest": "Biweekly Contest 131"
+    },
+    {
+      "title": "Time Taken to Mark All Nodes",
+      "url": "https://leetcode.com/contest/biweekly-contest-136/problems/time-taken-to-mark-all-nodes",
+      "rating": 2543,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 136"
     },
     {
       "title": "Divide an Array Into Subarrays With Minimum Cost II",
@@ -671,13 +699,6 @@
       "rating": 2495,
       "difficulty": "hard",
       "contest": "Weekly Contest 245"
-    },
-    {
-      "title": "Count the Number of Substrings With Dominant Ones",
-      "url": "https://leetcode.com/contest/weekly-contest-408/problems/count-the-number-of-substrings-with-dominant-ones",
-      "rating": 2493,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 408"
     },
     {
       "title": "Maximum Employees to Be Invited to a Meeting",
@@ -1779,6 +1800,13 @@
       "contest": "Biweekly Contest 95"
     },
     {
+      "title": "Shortest Distance After Road Addition Queries II",
+      "url": "https://leetcode.com/contest/weekly-contest-409/problems/shortest-distance-after-road-addition-queries-ii",
+      "rating": 2251,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 409"
+    },
+    {
       "title": "Graph Connectivity With Threshold",
       "url": "https://leetcode.com/contest/weekly-contest-211/problems/graph-connectivity-with-threshold",
       "rating": 2250,
@@ -1875,13 +1903,6 @@
       "rating": 2239,
       "difficulty": "hard",
       "contest": "Weekly Contest 123"
-    },
-    {
-      "title": "Check if the Rectangle Corner Is Reachable",
-      "url": "https://leetcode.com/contest/weekly-contest-408/problems/check-if-the-rectangle-corner-is-reachable",
-      "rating": 2239,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 408"
     },
     {
       "title": "Count Palindromic Subsequences",
@@ -3121,6 +3142,13 @@
       "rating": 2057,
       "difficulty": "hard",
       "contest": "Biweekly Contest 45"
+    },
+    {
+      "title": "Minimum Number of Flips to Make Binary Grid Palindromic II",
+      "url": "https://leetcode.com/contest/biweekly-contest-136/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii",
+      "rating": 2057,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 136"
     },
     {
       "title": "Ugly Number III",
@@ -8527,6 +8555,13 @@
       "contest": "Weekly Contest 398"
     },
     {
+      "title": "Shortest Distance After Road Addition Queries I",
+      "url": "https://leetcode.com/contest/weekly-contest-409/problems/shortest-distance-after-road-addition-queries-i",
+      "rating": 1470,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 409"
+    },
+    {
       "title": "Maximum Split of Positive Even Integers",
       "url": "https://leetcode.com/contest/biweekly-contest-72/problems/maximum-split-of-positive-even-integers",
       "rating": 1469,
@@ -8539,6 +8574,13 @@
       "rating": 1469,
       "difficulty": "medium",
       "contest": "Biweekly Contest 95"
+    },
+    {
+      "title": "Find the Count of Numbers Which Are Not Special",
+      "url": "https://leetcode.com/contest/weekly-contest-408/problems/find-the-count-of-numbers-which-are-not-special",
+      "rating": 1469,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 408"
     },
     {
       "title": "Eliminate Maximum Number of Monsters",
@@ -10802,6 +10844,13 @@
       "contest": "Weekly Contest 403"
     },
     {
+      "title": "Minimum Number of Flips to Make Binary Grid Palindromic I",
+      "url": "https://leetcode.com/contest/biweekly-contest-136/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i",
+      "rating": 1199,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 136"
+    },
+    {
       "title": "Maximum Distance in Arrays",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-37/problems/maximum-distance-in-arrays",
       "rating": 1198,
@@ -11143,13 +11192,6 @@
       "rating": 1157,
       "difficulty": "medium",
       "contest": "Weekly Contest 165"
-    },
-    {
-      "title": "Find the Count of Numbers Which Are Not Special",
-      "url": "https://leetcode.com/contest/weekly-contest-408/problems/find-the-count-of-numbers-which-are-not-special",
-      "rating": 1157,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 408"
     },
     {
       "title": "Magic Squares In Grid",
@@ -12853,6 +12895,13 @@
       "contest": "Weekly Contest 361"
     },
     {
+      "title": "Design Neighbor Sum Service",
+      "url": "https://leetcode.com/contest/weekly-contest-409/problems/design-neighbor-sum-service",
+      "rating": 877,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 409"
+    },
+    {
       "title": "Minimum Index Sum of Two Lists",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-34/problems/minimum-index-sum-of-two-lists",
       "rating": 876,
@@ -13257,6 +13306,13 @@
       "rating": 808,
       "difficulty": "easy",
       "contest": "Weekly Contest 181"
+    },
+    {
+      "title": "Find the Number of Winning Players",
+      "url": "https://leetcode.com/contest/biweekly-contest-136/problems/find-the-number-of-winning-players",
+      "rating": 807,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 136"
     },
     {
       "title": "Keyboard Row",
@@ -14981,6 +15037,13 @@
       "contest": "Weekly Contest 182"
     },
     {
+      "title": "Find if Digit Game Can Be Won",
+      "url": "https://leetcode.com/contest/weekly-contest-408/problems/find-if-digit-game-can-be-won",
+      "rating": 510,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 408"
+    },
+    {
       "title": "Largest Number At Least Twice of Others",
       "url": "https://leetcode.com/contest/weekly-contest-64/problems/largest-number-at-least-twice-of-others",
       "rating": 509,
@@ -15294,13 +15357,6 @@
       "rating": 360,
       "difficulty": "easy",
       "contest": "Biweekly Contest 44"
-    },
-    {
-      "title": "Find if Digit Game Can Be Won",
-      "url": "https://leetcode.com/contest/weekly-contest-408/problems/find-if-digit-game-can-be-won",
-      "rating": 359,
-      "difficulty": "easy",
-      "contest": "Weekly Contest 408"
     },
     {
       "title": "Maximum Product Difference Between Two Pairs",
