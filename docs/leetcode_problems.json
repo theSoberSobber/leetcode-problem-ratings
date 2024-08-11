@@ -17,7 +17,7 @@
     {
       "title": "Alternating Groups III",
       "url": "https://leetcode.com/contest/weekly-contest-409/problems/alternating-groups-iii",
-      "rating": 3109,
+      "rating": 3116,
       "difficulty": "hard",
       "contest": "Weekly Contest 409"
     },
@@ -603,18 +603,18 @@
       "contest": "Weekly Contest 250"
     },
     {
+      "title": "Time Taken to Mark All Nodes",
+      "url": "https://leetcode.com/contest/biweekly-contest-136/problems/time-taken-to-mark-all-nodes",
+      "rating": 2544,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 136"
+    },
+    {
       "title": "Block Placement Queries",
       "url": "https://leetcode.com/contest/biweekly-contest-131/problems/block-placement-queries",
       "rating": 2543,
       "difficulty": "hard",
       "contest": "Biweekly Contest 131"
-    },
-    {
-      "title": "Time Taken to Mark All Nodes",
-      "url": "https://leetcode.com/contest/biweekly-contest-136/problems/time-taken-to-mark-all-nodes",
-      "rating": 2543,
-      "difficulty": "hard",
-      "contest": "Biweekly Contest 136"
     },
     {
       "title": "Divide an Array Into Subarrays With Minimum Cost II",
@@ -1289,6 +1289,13 @@
       "contest": "Weekly Contest 65"
     },
     {
+      "title": "Find the Count of Monotonic Pairs II",
+      "url": "https://leetcode.com/contest/weekly-contest-410/problems/find-the-count-of-monotonic-pairs-ii",
+      "rating": 2357,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 410"
+    },
+    {
       "title": "Minimum Moves to Make Array Complementary",
       "url": "https://leetcode.com/contest/weekly-contest-217/problems/minimum-moves-to-make-array-complementary",
       "rating": 2356,
@@ -1793,18 +1800,18 @@
       "contest": "Weekly Contest 331"
     },
     {
+      "title": "Shortest Distance After Road Addition Queries II",
+      "url": "https://leetcode.com/contest/weekly-contest-409/problems/shortest-distance-after-road-addition-queries-ii",
+      "rating": 2252,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 409"
+    },
+    {
       "title": "Maximize the Minimum Powered City",
       "url": "https://leetcode.com/contest/biweekly-contest-95/problems/maximize-the-minimum-powered-city",
       "rating": 2251,
       "difficulty": "hard",
       "contest": "Biweekly Contest 95"
-    },
-    {
-      "title": "Shortest Distance After Road Addition Queries II",
-      "url": "https://leetcode.com/contest/weekly-contest-409/problems/shortest-distance-after-road-addition-queries-ii",
-      "rating": 2251,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 409"
     },
     {
       "title": "Graph Connectivity With Threshold",
@@ -4451,6 +4458,13 @@
       "rating": 1898,
       "difficulty": "hard",
       "contest": "Biweekly Contest 21"
+    },
+    {
+      "title": "Find the Count of Monotonic Pairs I",
+      "url": "https://leetcode.com/contest/weekly-contest-410/problems/find-the-count-of-monotonic-pairs-i",
+      "rating": 1898,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 410"
     },
     {
       "title": "Bulb Switcher II",
@@ -7951,6 +7965,13 @@
       "rating": 1534,
       "difficulty": "medium",
       "contest": "Weekly Contest 6"
+    },
+    {
+      "title": "Count the Number of Good Nodes",
+      "url": "https://leetcode.com/contest/weekly-contest-410/problems/count-the-number-of-good-nodes",
+      "rating": 1531,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 410"
     },
     {
       "title": "Stone Game",
@@ -12895,18 +12916,18 @@
       "contest": "Weekly Contest 361"
     },
     {
-      "title": "Design Neighbor Sum Service",
-      "url": "https://leetcode.com/contest/weekly-contest-409/problems/design-neighbor-sum-service",
-      "rating": 877,
-      "difficulty": "easy",
-      "contest": "Weekly Contest 409"
-    },
-    {
       "title": "Minimum Index Sum of Two Lists",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-34/problems/minimum-index-sum-of-two-lists",
       "rating": 876,
       "difficulty": "easy",
       "contest": "Weekly Contest 34"
+    },
+    {
+      "title": "Design Neighbor Sum Service",
+      "url": "https://leetcode.com/contest/weekly-contest-409/problems/design-neighbor-sum-service",
+      "rating": 876,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 409"
     },
     {
       "title": "Is Subsequence",
@@ -13308,13 +13329,6 @@
       "contest": "Weekly Contest 181"
     },
     {
-      "title": "Find the Number of Winning Players",
-      "url": "https://leetcode.com/contest/biweekly-contest-136/problems/find-the-number-of-winning-players",
-      "rating": 807,
-      "difficulty": "easy",
-      "contest": "Biweekly Contest 136"
-    },
-    {
       "title": "Keyboard Row",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-18a/problems/keyboard-row",
       "rating": 806,
@@ -13334,6 +13348,13 @@
       "rating": 806,
       "difficulty": "easy",
       "contest": "Weekly Contest 323"
+    },
+    {
+      "title": "Find the Number of Winning Players",
+      "url": "https://leetcode.com/contest/biweekly-contest-136/problems/find-the-number-of-winning-players",
+      "rating": 806,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 136"
     },
     {
       "title": "Longer Contiguous Segments of Ones than Zeros",
@@ -14706,6 +14727,13 @@
       "rating": 579,
       "difficulty": "easy",
       "contest": "Weekly Contest 282"
+    },
+    {
+      "title": "Snake in Matrix",
+      "url": "https://leetcode.com/contest/weekly-contest-410/problems/snake-in-matrix",
+      "rating": 578,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 410"
     },
     {
       "title": "Final Prices With a Special Discount in a Shop",
