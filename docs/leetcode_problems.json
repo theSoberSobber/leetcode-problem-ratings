@@ -295,6 +295,13 @@
       "contest": "Weekly Contest 396"
     },
     {
+      "title": "Count Substrings That Satisfy K-Constraint II",
+      "url": "https://leetcode.com/contest/weekly-contest-411/problems/count-substrings-that-satisfy-k-constraint-ii",
+      "rating": 2675,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 411"
+    },
+    {
       "title": "Collect Coins in a Tree",
       "url": "https://leetcode.com/contest/weekly-contest-338/problems/collect-coins-in-a-tree",
       "rating": 2672,
@@ -314,13 +321,6 @@
       "rating": 2663,
       "difficulty": "hard",
       "contest": "Biweekly Contest 50"
-    },
-    {
-      "title": "Count Substrings That Satisfy K-Constraint II",
-      "url": "https://leetcode.com/contest/weekly-contest-411/problems/count-substrings-that-satisfy-k-constraint-ii",
-      "rating": 2663,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 411"
     },
     {
       "title": "Find the Minimum Cost Array Permutation",
@@ -617,6 +617,13 @@
       "contest": "Weekly Contest 250"
     },
     {
+      "title": "Count Almost Equal Pairs II",
+      "url": "https://leetcode.com/contest/weekly-contest-412/problems/count-almost-equal-pairs-ii",
+      "rating": 2547,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 412"
+    },
+    {
       "title": "Block Placement Queries",
       "url": "https://leetcode.com/contest/biweekly-contest-131/problems/block-placement-queries",
       "rating": 2542,
@@ -694,11 +701,25 @@
       "contest": "Biweekly Contest 60"
     },
     {
+      "title": "Final Array State After K Multiplication Operations II",
+      "url": "https://leetcode.com/contest/weekly-contest-412/problems/final-array-state-after-k-multiplication-operations-ii",
+      "rating": 2504,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 412"
+    },
+    {
       "title": "Count Pairs Of Nodes",
       "url": "https://leetcode.com/contest/biweekly-contest-47/problems/count-pairs-of-nodes",
       "rating": 2500,
       "difficulty": "hard",
       "contest": "Biweekly Contest 47"
+    },
+    {
+      "title": "Maximum Value Sum by Placing Three Rooks II",
+      "url": "https://leetcode.com/contest/biweekly-contest-137/problems/maximum-value-sum-by-placing-three-rooks-ii",
+      "rating": 2498,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 137"
     },
     {
       "title": "Fancy Sequence",
@@ -776,13 +797,6 @@
       "rating": 2479,
       "difficulty": "hard",
       "contest": "Weekly Contest 312"
-    },
-    {
-      "title": "Maximum Value Sum by Placing Three Rooks II",
-      "url": "https://leetcode.com/contest/biweekly-contest-137/problems/maximum-value-sum-by-placing-three-rooks-ii",
-      "rating": 2479,
-      "difficulty": "hard",
-      "contest": "Biweekly Contest 137"
     },
     {
       "title": "Moving Stones Until Consecutive II",
@@ -1226,18 +1240,18 @@
       "contest": "Weekly Contest 320"
     },
     {
-      "title": "Find the Largest Palindrome Divisible by K",
-      "url": "https://leetcode.com/contest/weekly-contest-411/problems/find-the-largest-palindrome-divisible-by-k",
-      "rating": 2373,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 411"
-    },
-    {
       "title": "Minimum One Bit Operations to Make Integers Zero",
       "url": "https://leetcode.com/contest/weekly-contest-209/problems/minimum-one-bit-operations-to-make-integers-zero",
       "rating": 2372,
       "difficulty": "hard",
       "contest": "Weekly Contest 209"
+    },
+    {
+      "title": "Find the Largest Palindrome Divisible by K",
+      "url": "https://leetcode.com/contest/weekly-contest-411/problems/find-the-largest-palindrome-divisible-by-k",
+      "rating": 2372,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 411"
     },
     {
       "title": "Escape the Spreading Fire",
@@ -1702,6 +1716,13 @@
       "contest": "Weekly Contest 257"
     },
     {
+      "title": "Maximum Value Sum by Placing Three Rooks I",
+      "url": "https://leetcode.com/contest/biweekly-contest-137/problems/maximum-value-sum-by-placing-three-rooks-i",
+      "rating": 2278,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 137"
+    },
+    {
       "title": "Minimum Time to Build Blocks",
       "url": "https://leetcode.com/contest/biweekly-contest-9/problems/minimum-time-to-build-blocks",
       "rating": 2275,
@@ -1861,13 +1882,6 @@
       "rating": 2249,
       "difficulty": "hard",
       "contest": "Weekly Contest 149"
-    },
-    {
-      "title": "Maximum Value Sum by Placing Three Rooks I",
-      "url": "https://leetcode.com/contest/biweekly-contest-137/problems/maximum-value-sum-by-placing-three-rooks-i",
-      "rating": 2249,
-      "difficulty": "hard",
-      "contest": "Biweekly Contest 137"
     },
     {
       "title": "Sum of Scores of Built Strings",
@@ -7918,11 +7932,11 @@
       "contest": "Weekly Contest 23"
     },
     {
-      "title": "Find the Power of K-Size Subarrays II",
-      "url": "https://leetcode.com/contest/biweekly-contest-137/problems/find-the-power-of-k-size-subarrays-ii",
-      "rating": 1540,
+      "title": "Count Almost Equal Pairs I",
+      "url": "https://leetcode.com/contest/weekly-contest-412/problems/count-almost-equal-pairs-i",
+      "rating": 1541,
       "difficulty": "medium",
-      "contest": "Biweekly Contest 137"
+      "contest": "Weekly Contest 412"
     },
     {
       "title": "Word Subsets",
@@ -7993,6 +8007,13 @@
       "rating": 1535,
       "difficulty": "medium",
       "contest": "Weekly Contest 351"
+    },
+    {
+      "title": "Find the Power of K-Size Subarrays II",
+      "url": "https://leetcode.com/contest/biweekly-contest-137/problems/find-the-power-of-k-size-subarrays-ii",
+      "rating": 1535,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 137"
     },
     {
       "title": "Queue Reconstruction by Height",
@@ -9381,13 +9402,6 @@
       "contest": "Biweekly Contest 107"
     },
     {
-      "title": "Maximum Energy Boost From Two Drinks",
-      "url": "https://leetcode.com/contest/weekly-contest-411/problems/maximum-energy-boost-from-two-drinks",
-      "rating": 1385,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 411"
-    },
-    {
       "title": "Partition Equal Subset Sum",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-8/problems/partition-equal-subset-sum",
       "rating": 1384,
@@ -9512,6 +9526,13 @@
       "rating": 1367,
       "difficulty": "easy",
       "contest": "Smarking Algorithm Contest 4"
+    },
+    {
+      "title": "Maximum Energy Boost From Two Drinks",
+      "url": "https://leetcode.com/contest/weekly-contest-411/problems/maximum-energy-boost-from-two-drinks",
+      "rating": 1367,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 411"
     },
     {
       "title": "Maximum Swap",
@@ -13371,6 +13392,13 @@
       "contest": "Weekly Contest 336"
     },
     {
+      "title": "Count Substrings That Satisfy K-Constraint I",
+      "url": "https://leetcode.com/contest/weekly-contest-411/problems/count-substrings-that-satisfy-k-constraint-i",
+      "rating": 792,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 411"
+    },
+    {
       "title": "Backspace String Compare",
       "url": "https://leetcode.com/contest/weekly-contest-87/problems/backspace-string-compare",
       "rating": 791,
@@ -13390,13 +13418,6 @@
       "rating": 790,
       "difficulty": "easy",
       "contest": "Weekly Contest 6"
-    },
-    {
-      "title": "Count Substrings That Satisfy K-Constraint I",
-      "url": "https://leetcode.com/contest/weekly-contest-411/problems/count-substrings-that-satisfy-k-constraint-i",
-      "rating": 790,
-      "difficulty": "easy",
-      "contest": "Weekly Contest 411"
     },
     {
       "title": "The K Weakest Rows in a Matrix",
@@ -14449,6 +14470,13 @@
       "contest": "Weekly Contest 190"
     },
     {
+      "title": "Final Array State After K Multiplication Operations I",
+      "url": "https://leetcode.com/contest/weekly-contest-412/problems/final-array-state-after-k-multiplication-operations-i",
+      "rating": 628,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 412"
+    },
+    {
       "title": "How Many Numbers Are Smaller Than the Current Number",
       "url": "https://leetcode.com/contest/weekly-contest-178/problems/how-many-numbers-are-smaller-than-the-current-number",
       "rating": 627,
@@ -14517,6 +14545,13 @@
       "rating": 620,
       "difficulty": "easy",
       "contest": "Weekly Contest 257"
+    },
+    {
+      "title": "Find the Power of K-Size Subarrays I",
+      "url": "https://leetcode.com/contest/biweekly-contest-137/problems/find-the-power-of-k-size-subarrays-i",
+      "rating": 620,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 137"
     },
     {
       "title": "Count Negative Numbers in a Sorted Matrix",
@@ -15084,13 +15119,6 @@
       "rating": 517,
       "difficulty": "easy",
       "contest": "Weekly Contest 117"
-    },
-    {
-      "title": "Find the Power of K-Size Subarrays I",
-      "url": "https://leetcode.com/contest/biweekly-contest-137/problems/find-the-power-of-k-size-subarrays-i",
-      "rating": 515,
-      "difficulty": "medium",
-      "contest": "Biweekly Contest 137"
     },
     {
       "title": "Find Lucky Integer in an Array",
