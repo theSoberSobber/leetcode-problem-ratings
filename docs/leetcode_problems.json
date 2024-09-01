@@ -274,6 +274,13 @@
       "contest": "Weekly Contest 231"
     },
     {
+      "title": "Maximum XOR Score Subarray Queries",
+      "url": "https://leetcode.com/contest/weekly-contest-413/problems/maximum-xor-score-subarray-queries",
+      "rating": 2703,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 413"
+    },
+    {
       "title": "Count Paths That Can Form a Palindrome in a Tree",
       "url": "https://leetcode.com/contest/weekly-contest-355/problems/count-paths-that-can-form-a-palindrome-in-a-tree",
       "rating": 2699,
@@ -582,6 +589,13 @@
       "contest": "Biweekly Contest 54"
     },
     {
+      "title": "Count Almost Equal Pairs II",
+      "url": "https://leetcode.com/contest/weekly-contest-412/problems/count-almost-equal-pairs-ii",
+      "rating": 2560,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 412"
+    },
+    {
       "title": "Count the Number of Substrings With Dominant Ones",
       "url": "https://leetcode.com/contest/weekly-contest-408/problems/count-the-number-of-substrings-with-dominant-ones",
       "rating": 2554,
@@ -615,13 +629,6 @@
       "rating": 2547,
       "difficulty": "hard",
       "contest": "Weekly Contest 250"
-    },
-    {
-      "title": "Count Almost Equal Pairs II",
-      "url": "https://leetcode.com/contest/weekly-contest-412/problems/count-almost-equal-pairs-ii",
-      "rating": 2547,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 412"
     },
     {
       "title": "Block Placement Queries",
@@ -673,6 +680,13 @@
       "contest": "Biweekly Contest 136"
     },
     {
+      "title": "Final Array State After K Multiplication Operations II",
+      "url": "https://leetcode.com/contest/weekly-contest-412/problems/final-array-state-after-k-multiplication-operations-ii",
+      "rating": 2521,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 412"
+    },
+    {
       "title": "Reverse Subarray To Maximize Array Value",
       "url": "https://leetcode.com/contest/biweekly-contest-18/problems/reverse-subarray-to-maximize-array-value",
       "rating": 2515,
@@ -699,13 +713,6 @@
       "rating": 2507,
       "difficulty": "hard",
       "contest": "Biweekly Contest 60"
-    },
-    {
-      "title": "Final Array State After K Multiplication Operations II",
-      "url": "https://leetcode.com/contest/weekly-contest-412/problems/final-array-state-after-k-multiplication-operations-ii",
-      "rating": 2504,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 412"
     },
     {
       "title": "Count Pairs Of Nodes",
@@ -1226,6 +1233,13 @@
       "contest": "Weekly Contest 85"
     },
     {
+      "title": "Select Cells in Grid With Maximum Score",
+      "url": "https://leetcode.com/contest/weekly-contest-413/problems/select-cells-in-grid-with-maximum-score",
+      "rating": 2376,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 413"
+    },
+    {
       "title": "Find the Maximum Length of a Good Subsequence II",
       "url": "https://leetcode.com/contest/biweekly-contest-132/problems/find-the-maximum-length-of-a-good-subsequence-ii",
       "rating": 2375,
@@ -1364,6 +1378,13 @@
       "rating": 2349,
       "difficulty": "hard",
       "contest": "Biweekly Contest 121"
+    },
+    {
+      "title": "Find the Count of Good Integers",
+      "url": "https://leetcode.com/contest/biweekly-contest-138/problems/find-the-count-of-good-integers",
+      "rating": 2349,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 138"
     },
     {
       "title": "Number of Beautiful Integers in the Range",
@@ -3562,6 +3583,13 @@
       "rating": 2017,
       "difficulty": "medium",
       "contest": "Biweekly Contest 35"
+    },
+    {
+      "title": "Minimum Amount of Damage Dealt to Bob",
+      "url": "https://leetcode.com/contest/biweekly-contest-138/problems/minimum-amount-of-damage-dealt-to-bob",
+      "rating": 2017,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 138"
     },
     {
       "title": "Maximum Number of Events That Can Be Attended",
@@ -7043,6 +7071,13 @@
       "contest": "Weekly Contest 322"
     },
     {
+      "title": "Count Almost Equal Pairs I",
+      "url": "https://leetcode.com/contest/weekly-contest-412/problems/count-almost-equal-pairs-i",
+      "rating": 1638,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 412"
+    },
+    {
       "title": "Count Sub Islands",
       "url": "https://leetcode.com/contest/weekly-contest-246/problems/count-sub-islands",
       "rating": 1637,
@@ -7930,13 +7965,6 @@
       "rating": 1543,
       "difficulty": "medium",
       "contest": "Weekly Contest 23"
-    },
-    {
-      "title": "Count Almost Equal Pairs I",
-      "url": "https://leetcode.com/contest/weekly-contest-412/problems/count-almost-equal-pairs-i",
-      "rating": 1541,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 412"
     },
     {
       "title": "Word Subsets",
@@ -9680,6 +9708,13 @@
       "rating": 1355,
       "difficulty": "medium",
       "contest": "Biweekly Contest 46"
+    },
+    {
+      "title": "K-th Nearest Obstacle Queries",
+      "url": "https://leetcode.com/contest/weekly-contest-413/problems/k-th-nearest-obstacle-queries",
+      "rating": 1355,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 413"
     },
     {
       "title": "Remove Interval",
@@ -11647,6 +11682,13 @@
       "rating": 1102,
       "difficulty": "medium",
       "contest": "Weekly Contest 277"
+    },
+    {
+      "title": "Hash Divided String",
+      "url": "https://leetcode.com/contest/biweekly-contest-138/problems/hash-divided-string",
+      "rating": 1101,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 138"
     },
     {
       "title": "Adding Spaces to a String",
@@ -13819,6 +13861,13 @@
       "contest": "Weekly Contest 392"
     },
     {
+      "title": "Find the Key of the Numbers",
+      "url": "https://leetcode.com/contest/biweekly-contest-138/problems/find-the-key-of-the-numbers",
+      "rating": 716,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 138"
+    },
+    {
       "title": "Check If String Is a Prefix of Array",
       "url": "https://leetcode.com/contest/weekly-contest-253/problems/check-if-string-is-a-prefix-of-array",
       "rating": 715,
@@ -14470,13 +14519,6 @@
       "contest": "Weekly Contest 190"
     },
     {
-      "title": "Final Array State After K Multiplication Operations I",
-      "url": "https://leetcode.com/contest/weekly-contest-412/problems/final-array-state-after-k-multiplication-operations-i",
-      "rating": 628,
-      "difficulty": "easy",
-      "contest": "Weekly Contest 412"
-    },
-    {
       "title": "How Many Numbers Are Smaller Than the Current Number",
       "url": "https://leetcode.com/contest/weekly-contest-178/problems/how-many-numbers-are-smaller-than-the-current-number",
       "rating": 627,
@@ -14622,6 +14664,13 @@
       "rating": 613,
       "difficulty": "easy",
       "contest": "Weekly Contest 254"
+    },
+    {
+      "title": "Check if Two Chessboard Squares Have the Same Color",
+      "url": "https://leetcode.com/contest/weekly-contest-413/problems/check-if-two-chessboard-squares-have-the-same-color",
+      "rating": 613,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 413"
     },
     {
       "title": "Merge Similar Items",
@@ -14874,6 +14923,13 @@
       "rating": 563,
       "difficulty": "easy",
       "contest": "Biweekly Contest 126"
+    },
+    {
+      "title": "Final Array State After K Multiplication Operations I",
+      "url": "https://leetcode.com/contest/weekly-contest-412/problems/final-array-state-after-k-multiplication-operations-i",
+      "rating": 562,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 412"
     },
     {
       "title": "Minimum Operations to Make the Array Increasing",
