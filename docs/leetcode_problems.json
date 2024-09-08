@@ -232,6 +232,13 @@
       "contest": "Weekly Contest 270"
     },
     {
+      "title": "Maximum XOR Score Subarray Queries",
+      "url": "https://leetcode.com/contest/weekly-contest-413/problems/maximum-xor-score-subarray-queries",
+      "rating": 2711,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 413"
+    },
+    {
       "title": "Find All Good Strings",
       "url": "https://leetcode.com/contest/weekly-contest-182/problems/find-all-good-strings",
       "rating": 2710,
@@ -272,13 +279,6 @@
       "rating": 2704,
       "difficulty": "hard",
       "contest": "Weekly Contest 231"
-    },
-    {
-      "title": "Maximum XOR Score Subarray Queries",
-      "url": "https://leetcode.com/contest/weekly-contest-413/problems/maximum-xor-score-subarray-queries",
-      "rating": 2703,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 413"
     },
     {
       "title": "Count Paths That Can Form a Palindrome in a Tree",
@@ -967,6 +967,13 @@
       "contest": "Weekly Contest 322"
     },
     {
+      "title": "Maximum Number of Moves to Kill All Pawns",
+      "url": "https://leetcode.com/contest/weekly-contest-414/problems/maximum-number-of-moves-to-kill-all-pawns",
+      "rating": 2439,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 414"
+    },
+    {
       "title": "Number of Music Playlists",
       "url": "https://leetcode.com/contest/weekly-contest-105/problems/number-of-music-playlists",
       "rating": 2436,
@@ -1028,6 +1035,13 @@
       "rating": 2420,
       "difficulty": "hard",
       "contest": "Weekly Contest 328"
+    },
+    {
+      "title": "Select Cells in Grid With Maximum Score",
+      "url": "https://leetcode.com/contest/weekly-contest-413/problems/select-cells-in-grid-with-maximum-score",
+      "rating": 2420,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 413"
     },
     {
       "title": "Minimum Incompatibility",
@@ -1119,6 +1133,13 @@
       "rating": 2402,
       "difficulty": "hard",
       "contest": "Weekly Contest 298"
+    },
+    {
+      "title": "Find the Count of Good Integers",
+      "url": "https://leetcode.com/contest/biweekly-contest-138/problems/find-the-count-of-good-integers",
+      "rating": 2402,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 138"
     },
     {
       "title": "Design Excel Sum Formula",
@@ -1231,13 +1252,6 @@
       "rating": 2379,
       "difficulty": "medium",
       "contest": "Weekly Contest 85"
-    },
-    {
-      "title": "Select Cells in Grid With Maximum Score",
-      "url": "https://leetcode.com/contest/weekly-contest-413/problems/select-cells-in-grid-with-maximum-score",
-      "rating": 2376,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 413"
     },
     {
       "title": "Find the Maximum Length of a Good Subsequence II",
@@ -1378,13 +1392,6 @@
       "rating": 2349,
       "difficulty": "hard",
       "contest": "Biweekly Contest 121"
-    },
-    {
-      "title": "Find the Count of Good Integers",
-      "url": "https://leetcode.com/contest/biweekly-contest-138/problems/find-the-count-of-good-integers",
-      "rating": 2349,
-      "difficulty": "hard",
-      "contest": "Biweekly Contest 138"
     },
     {
       "title": "Number of Beautiful Integers in the Range",
@@ -3438,6 +3445,13 @@
       "contest": "Biweekly Contest 1"
     },
     {
+      "title": "Minimum Amount of Damage Dealt to Bob",
+      "url": "https://leetcode.com/contest/biweekly-contest-138/problems/minimum-amount-of-damage-dealt-to-bob",
+      "rating": 2031,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 138"
+    },
+    {
       "title": "Smallest Range Covering Elements from K Lists",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-39/problems/smallest-range-covering-elements-from-k-lists",
       "rating": 2030,
@@ -3583,13 +3597,6 @@
       "rating": 2017,
       "difficulty": "medium",
       "contest": "Biweekly Contest 35"
-    },
-    {
-      "title": "Minimum Amount of Damage Dealt to Bob",
-      "url": "https://leetcode.com/contest/biweekly-contest-138/problems/minimum-amount-of-damage-dealt-to-bob",
-      "rating": 2017,
-      "difficulty": "hard",
-      "contest": "Biweekly Contest 138"
     },
     {
       "title": "Maximum Number of Events That Can Be Attended",
@@ -5839,6 +5846,13 @@
       "contest": "Weekly Contest 348"
     },
     {
+      "title": "Reach End of Array With Max Score",
+      "url": "https://leetcode.com/contest/weekly-contest-414/problems/reach-end-of-array-with-max-score",
+      "rating": 1756,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 414"
+    },
+    {
       "title": "Find Indices With Index and Value Difference II",
       "url": "https://leetcode.com/contest/weekly-contest-367/problems/find-indices-with-index-and-value-difference-ii",
       "rating": 1754,
@@ -5900,6 +5914,13 @@
       "rating": 1750,
       "difficulty": "medium",
       "contest": "Weekly Contest 399"
+    },
+    {
+      "title": "Maximize Score of Numbers in Ranges",
+      "url": "https://leetcode.com/contest/weekly-contest-414/problems/maximize-score-of-numbers-in-ranges",
+      "rating": 1750,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 414"
     },
     {
       "title": "Intervals Between Identical Elements",
@@ -9710,13 +9731,6 @@
       "contest": "Biweekly Contest 46"
     },
     {
-      "title": "K-th Nearest Obstacle Queries",
-      "url": "https://leetcode.com/contest/weekly-contest-413/problems/k-th-nearest-obstacle-queries",
-      "rating": 1355,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 413"
-    },
-    {
       "title": "Remove Interval",
       "url": "https://leetcode.com/contest/biweekly-contest-14/problems/remove-interval",
       "rating": 1354,
@@ -9743,6 +9757,13 @@
       "rating": 1353,
       "difficulty": "medium",
       "contest": "Weekly Contest 337"
+    },
+    {
+      "title": "K-th Nearest Obstacle Queries",
+      "url": "https://leetcode.com/contest/weekly-contest-413/problems/k-th-nearest-obstacle-queries",
+      "rating": 1353,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 413"
     },
     {
       "title": "Smallest String With A Given Numeric Value",
@@ -11686,7 +11707,7 @@
     {
       "title": "Hash Divided String",
       "url": "https://leetcode.com/contest/biweekly-contest-138/problems/hash-divided-string",
-      "rating": 1101,
+      "rating": 1102,
       "difficulty": "medium",
       "contest": "Biweekly Contest 138"
     },
@@ -13854,18 +13875,18 @@
       "contest": "Biweekly Contest 132"
     },
     {
+      "title": "Find the Key of the Numbers",
+      "url": "https://leetcode.com/contest/biweekly-contest-138/problems/find-the-key-of-the-numbers",
+      "rating": 717,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 138"
+    },
+    {
       "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
       "url": "https://leetcode.com/contest/weekly-contest-392/problems/longest-strictly-increasing-or-strictly-decreasing-subarray",
       "rating": 716,
       "difficulty": "easy",
       "contest": "Weekly Contest 392"
-    },
-    {
-      "title": "Find the Key of the Numbers",
-      "url": "https://leetcode.com/contest/biweekly-contest-138/problems/find-the-key-of-the-numbers",
-      "rating": 716,
-      "difficulty": "easy",
-      "contest": "Biweekly Contest 138"
     },
     {
       "title": "Check If String Is a Prefix of Array",
@@ -14666,13 +14687,6 @@
       "contest": "Weekly Contest 254"
     },
     {
-      "title": "Check if Two Chessboard Squares Have the Same Color",
-      "url": "https://leetcode.com/contest/weekly-contest-413/problems/check-if-two-chessboard-squares-have-the-same-color",
-      "rating": 613,
-      "difficulty": "easy",
-      "contest": "Weekly Contest 413"
-    },
-    {
       "title": "Merge Similar Items",
       "url": "https://leetcode.com/contest/biweekly-contest-84/problems/merge-similar-items",
       "rating": 611,
@@ -14685,6 +14699,13 @@
       "rating": 611,
       "difficulty": "easy",
       "contest": "Weekly Contest 319"
+    },
+    {
+      "title": "Check if Two Chessboard Squares Have the Same Color",
+      "url": "https://leetcode.com/contest/weekly-contest-413/problems/check-if-two-chessboard-squares-have-the-same-color",
+      "rating": 610,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 413"
     },
     {
       "title": "Find Anagram Mappings",
@@ -14881,6 +14902,13 @@
       "rating": 571,
       "difficulty": "easy",
       "contest": "Biweekly Contest 66"
+    },
+    {
+      "title": "Convert Date to Binary",
+      "url": "https://leetcode.com/contest/weekly-contest-414/problems/convert-date-to-binary",
+      "rating": 571,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 414"
     },
     {
       "title": "Check if Matrix Is X-Matrix",
