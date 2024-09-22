@@ -323,6 +323,13 @@
       "contest": "Weekly Contest 251"
     },
     {
+      "title": "Minimum Number of Valid Strings to Form Target II",
+      "url": "https://leetcode.com/contest/weekly-contest-415/problems/minimum-number-of-valid-strings-to-form-target-ii",
+      "rating": 2666,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 415"
+    },
+    {
       "title": "Minimum Number of Operations to Make String Sorted",
       "url": "https://leetcode.com/contest/biweekly-contest-50/problems/minimum-number-of-operations-to-make-string-sorted",
       "rating": 2663,
@@ -554,6 +561,13 @@
       "contest": "Weekly Contest 349"
     },
     {
+      "title": "Find the Maximum Sequence Value of Array",
+      "url": "https://leetcode.com/contest/biweekly-contest-139/problems/find-the-maximum-sequence-value-of-array",
+      "rating": 2574,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 139"
+    },
+    {
       "title": "Find the Sum of Subsequence Powers",
       "url": "https://leetcode.com/contest/biweekly-contest-127/problems/find-the-sum-of-subsequence-powers",
       "rating": 2571,
@@ -778,6 +792,13 @@
       "contest": "Weekly Contest 318"
     },
     {
+      "title": "Maximum Number of Moves to Kill All Pawns",
+      "url": "https://leetcode.com/contest/weekly-contest-414/problems/maximum-number-of-moves-to-kill-all-pawns",
+      "rating": 2488,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 414"
+    },
+    {
       "title": "Course Schedule III",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-38/problems/course-schedule-iii",
       "rating": 2487,
@@ -804,6 +825,13 @@
       "rating": 2479,
       "difficulty": "hard",
       "contest": "Weekly Contest 312"
+    },
+    {
+      "title": "Length of the Longest Increasing Path",
+      "url": "https://leetcode.com/contest/biweekly-contest-139/problems/length-of-the-longest-increasing-path",
+      "rating": 2475,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 139"
     },
     {
       "title": "Moving Stones Until Consecutive II",
@@ -965,13 +993,6 @@
       "rating": 2440,
       "difficulty": "hard",
       "contest": "Weekly Contest 322"
-    },
-    {
-      "title": "Maximum Number of Moves to Kill All Pawns",
-      "url": "https://leetcode.com/contest/weekly-contest-414/problems/maximum-number-of-moves-to-kill-all-pawns",
-      "rating": 2439,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 414"
     },
     {
       "title": "Number of Music Playlists",
@@ -3025,6 +3046,13 @@
       "contest": "Weekly Contest 271"
     },
     {
+      "title": "Minimum Number of Valid Strings to Form Target I",
+      "url": "https://leetcode.com/contest/weekly-contest-415/problems/minimum-number-of-valid-strings-to-form-target-i",
+      "rating": 2080,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 415"
+    },
+    {
       "title": "Maximum of Absolute Value Expression",
       "url": "https://leetcode.com/contest/weekly-contest-146/problems/maximum-of-absolute-value-expression",
       "rating": 2079,
@@ -4572,6 +4600,13 @@
       "contest": "Weekly Contest 172"
     },
     {
+      "title": "Count Substrings That Can Be Rearranged to Contain a String II",
+      "url": "https://leetcode.com/contest/weekly-contest-416/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii",
+      "rating": 1895,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 416"
+    },
+    {
       "title": "Split Array with Equal Sum",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-26/problems/split-array-with-equal-sum",
       "rating": 1894,
@@ -5244,6 +5279,13 @@
       "contest": "Weekly Contest 232"
     },
     {
+      "title": "Count Substrings That Can Be Rearranged to Contain a String I",
+      "url": "https://leetcode.com/contest/weekly-contest-416/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i",
+      "rating": 1827,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 416"
+    },
+    {
       "title": "Walking Robot Simulation",
       "url": "https://leetcode.com/contest/weekly-contest-94/problems/walking-robot-simulation",
       "rating": 1826,
@@ -5846,13 +5888,6 @@
       "contest": "Weekly Contest 348"
     },
     {
-      "title": "Reach End of Array With Max Score",
-      "url": "https://leetcode.com/contest/weekly-contest-414/problems/reach-end-of-array-with-max-score",
-      "rating": 1756,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 414"
-    },
-    {
       "title": "Find Indices With Index and Value Difference II",
       "url": "https://leetcode.com/contest/weekly-contest-367/problems/find-indices-with-index-and-value-difference-ii",
       "rating": 1754,
@@ -5914,13 +5949,6 @@
       "rating": 1750,
       "difficulty": "medium",
       "contest": "Weekly Contest 399"
-    },
-    {
-      "title": "Maximize Score of Numbers in Ranges",
-      "url": "https://leetcode.com/contest/weekly-contest-414/problems/maximize-score-of-numbers-in-ranges",
-      "rating": 1750,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 414"
     },
     {
       "title": "Intervals Between Identical Elements",
@@ -6287,6 +6315,13 @@
       "contest": "Biweekly Contest 93"
     },
     {
+      "title": "Reach End of Array With Max Score",
+      "url": "https://leetcode.com/contest/weekly-contest-414/problems/reach-end-of-array-with-max-score",
+      "rating": 1719,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 414"
+    },
+    {
       "title": "Partition String Into Minimum Beautiful Substrings",
       "url": "https://leetcode.com/contest/biweekly-contest-108/problems/partition-string-into-minimum-beautiful-substrings",
       "rating": 1718,
@@ -6355,6 +6390,13 @@
       "rating": 1709,
       "difficulty": "medium",
       "contest": "Weekly Contest 39"
+    },
+    {
+      "title": "Maximize Score of Numbers in Ranges",
+      "url": "https://leetcode.com/contest/weekly-contest-414/problems/maximize-score-of-numbers-in-ranges",
+      "rating": 1709,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 414"
     },
     {
       "title": "Design Memory Allocator",
@@ -6665,6 +6707,13 @@
       "contest": "Weekly Contest 82"
     },
     {
+      "title": "Maximum Multiplication Score",
+      "url": "https://leetcode.com/contest/weekly-contest-415/problems/maximum-multiplication-score",
+      "rating": 1681,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 415"
+    },
+    {
       "title": "Minimum Operations to Write the Letter Y on a Grid",
       "url": "https://leetcode.com/contest/weekly-contest-387/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
       "rating": 1680,
@@ -6838,6 +6887,13 @@
       "rating": 1666,
       "difficulty": "medium",
       "contest": "Weekly Contest 185"
+    },
+    {
+      "title": "Minimum Number of Seconds to Make Mountain Height Zero",
+      "url": "https://leetcode.com/contest/weekly-contest-416/problems/minimum-number-of-seconds-to-make-mountain-height-zero",
+      "rating": 1666,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 416"
     },
     {
       "title": "Evaluate Division",
@@ -7552,6 +7608,13 @@
       "rating": 1593,
       "difficulty": "medium",
       "contest": "Biweekly Contest 47"
+    },
+    {
+      "title": "Find a Safe Walk Through a Grid",
+      "url": "https://leetcode.com/contest/biweekly-contest-139/problems/find-a-safe-walk-through-a-grid",
+      "rating": 1592,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 139"
     },
     {
       "title": "Find Good Days to Rob the Bank",
@@ -14750,6 +14813,13 @@
       "contest": "Biweekly Contest 51"
     },
     {
+      "title": "Convert Date to Binary",
+      "url": "https://leetcode.com/contest/weekly-contest-414/problems/convert-date-to-binary",
+      "rating": 600,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 414"
+    },
+    {
       "title": "Percentage of Letter in String",
       "url": "https://leetcode.com/contest/weekly-contest-294/problems/percentage-of-letter-in-string",
       "rating": 599,
@@ -14904,13 +14974,6 @@
       "contest": "Biweekly Contest 66"
     },
     {
-      "title": "Convert Date to Binary",
-      "url": "https://leetcode.com/contest/weekly-contest-414/problems/convert-date-to-binary",
-      "rating": 571,
-      "difficulty": "easy",
-      "contest": "Weekly Contest 414"
-    },
-    {
       "title": "Check if Matrix Is X-Matrix",
       "url": "https://leetcode.com/contest/weekly-contest-299/problems/check-if-matrix-is-x-matrix",
       "rating": 567,
@@ -14930,6 +14993,13 @@
       "rating": 566,
       "difficulty": "easy",
       "contest": "Weekly Contest 379"
+    },
+    {
+      "title": "Report Spam Message",
+      "url": "https://leetcode.com/contest/weekly-contest-416/problems/report-spam-message",
+      "rating": 565,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 416"
     },
     {
       "title": "Element Appearing More Than 25% In Sorted Array",
@@ -15168,6 +15238,13 @@
       "rating": 529,
       "difficulty": "easy",
       "contest": "Weekly Contest 206"
+    },
+    {
+      "title": "The Two Sneaky Numbers of Digitville",
+      "url": "https://leetcode.com/contest/weekly-contest-415/problems/the-two-sneaky-numbers-of-digitville",
+      "rating": 527,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 415"
     },
     {
       "title": "Find the Middle Index in Array",
@@ -15434,6 +15511,13 @@
       "rating": 461,
       "difficulty": "easy",
       "contest": "Weekly Contest 248"
+    },
+    {
+      "title": "Find Indices of Stable Mountains",
+      "url": "https://leetcode.com/contest/biweekly-contest-139/problems/find-indices-of-stable-mountains",
+      "rating": 461,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 139"
     },
     {
       "title": "Number of Good Pairs",
