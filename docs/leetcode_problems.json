@@ -358,6 +358,13 @@
       "contest": "Weekly Contest 294"
     },
     {
+      "title": "Construct 2D Grid Matching Graph Layout",
+      "url": "https://leetcode.com/contest/weekly-contest-418/problems/construct-2d-grid-matching-graph-layout",
+      "rating": 2648,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 418"
+    },
+    {
       "title": "Minimum Skips to Arrive at Meeting On Time",
       "url": "https://leetcode.com/contest/weekly-contest-243/problems/minimum-skips-to-arrive-at-meeting-on-time",
       "rating": 2646,
@@ -610,13 +617,6 @@
       "contest": "Weekly Contest 412"
     },
     {
-      "title": "Find the Occurrence of First Almost Equal Substring",
-      "url": "https://leetcode.com/contest/biweekly-contest-140/problems/find-the-occurrence-of-first-almost-equal-substring",
-      "rating": 2560,
-      "difficulty": "hard",
-      "contest": "Biweekly Contest 140"
-    },
-    {
       "title": "Count the Number of Substrings With Dominant Ones",
       "url": "https://leetcode.com/contest/weekly-contest-408/problems/count-the-number-of-substrings-with-dominant-ones",
       "rating": 2554,
@@ -657,6 +657,13 @@
       "rating": 2542,
       "difficulty": "hard",
       "contest": "Biweekly Contest 131"
+    },
+    {
+      "title": "Find the Occurrence of First Almost Equal Substring",
+      "url": "https://leetcode.com/contest/biweekly-contest-140/problems/find-the-occurrence-of-first-almost-equal-substring",
+      "rating": 2538,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 140"
     },
     {
       "title": "Divide an Array Into Subarrays With Minimum Cost II",
@@ -722,6 +729,13 @@
       "contest": "Weekly Contest 295"
     },
     {
+      "title": "Find the Lexicographically Smallest Valid Sequence",
+      "url": "https://leetcode.com/contest/biweekly-contest-140/problems/find-the-lexicographically-smallest-valid-sequence",
+      "rating": 2511,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 140"
+    },
+    {
       "title": "Abbreviating the Product of a Range",
       "url": "https://leetcode.com/contest/biweekly-contest-68/problems/abbreviating-the-product-of-a-range",
       "rating": 2509,
@@ -741,6 +755,13 @@
       "rating": 2500,
       "difficulty": "hard",
       "contest": "Biweekly Contest 47"
+    },
+    {
+      "title": "Sorted GCD Pair Queries",
+      "url": "https://leetcode.com/contest/weekly-contest-418/problems/sorted-gcd-pair-queries",
+      "rating": 2500,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 418"
     },
     {
       "title": "Maximum Value Sum by Placing Three Rooks II",
@@ -909,13 +930,6 @@
       "rating": 2461,
       "difficulty": "hard",
       "contest": "Weekly Contest 258"
-    },
-    {
-      "title": "Find the Lexicographically Smallest Valid Sequence",
-      "url": "https://leetcode.com/contest/biweekly-contest-140/problems/find-the-lexicographically-smallest-valid-sequence",
-      "rating": 2460,
-      "difficulty": "medium",
-      "contest": "Biweekly Contest 140"
     },
     {
       "title": "GCD Sort of an Array",
@@ -2031,13 +2045,6 @@
       "contest": "Biweekly Contest 92"
     },
     {
-      "title": "Find the K-th Character in String Game II",
-      "url": "https://leetcode.com/contest/weekly-contest-417/problems/find-the-k-th-character-in-string-game-ii",
-      "rating": 2234,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 417"
-    },
-    {
       "title": "Shortest Path Visiting All Nodes",
       "url": "https://leetcode.com/contest/weekly-contest-87/problems/shortest-path-visiting-all-nodes",
       "rating": 2233,
@@ -2099,6 +2106,13 @@
       "rating": 2229,
       "difficulty": "hard",
       "contest": "Weekly Contest 214"
+    },
+    {
+      "title": "Find the K-th Character in String Game II",
+      "url": "https://leetcode.com/contest/weekly-contest-417/problems/find-the-k-th-character-in-string-game-ii",
+      "rating": 2229,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 417"
     },
     {
       "title": "Count Visited Nodes in a Directed Graph",
@@ -2185,13 +2199,6 @@
       "contest": "Weekly Contest 139"
     },
     {
-      "title": "Count of Substrings Containing Every Vowel and K Consonants II",
-      "url": "https://leetcode.com/contest/weekly-contest-417/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii",
-      "rating": 2207,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 417"
-    },
-    {
       "title": "Prefix and Suffix Search",
       "url": "https://leetcode.com/contest/weekly-contest-by-app-academy/problems/prefix-and-suffix-search",
       "rating": 2204,
@@ -2274,6 +2281,13 @@
       "rating": 2190,
       "difficulty": "hard",
       "contest": "Weekly Contest 273"
+    },
+    {
+      "title": "Count of Substrings Containing Every Vowel and K Consonants II",
+      "url": "https://leetcode.com/contest/weekly-contest-417/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii",
+      "rating": 2190,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 417"
     },
     {
       "title": "Find All Possible Stable Binary Arrays I",
@@ -7659,6 +7673,13 @@
       "contest": "Weekly Contest 326"
     },
     {
+      "title": "Remove Methods From Project",
+      "url": "https://leetcode.com/contest/weekly-contest-418/problems/remove-methods-from-project",
+      "rating": 1591,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 418"
+    },
+    {
       "title": "Short Encoding of Words",
       "url": "https://leetcode.com/contest/weekly-contest-81/problems/short-encoding-of-words",
       "rating": 1589,
@@ -8534,13 +8555,6 @@
       "contest": "Weekly Contest 180"
     },
     {
-      "title": "Count of Substrings Containing Every Vowel and K Consonants I",
-      "url": "https://leetcode.com/contest/weekly-contest-417/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i",
-      "rating": 1495,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 417"
-    },
-    {
       "title": "Most Popular Video Creator",
       "url": "https://leetcode.com/contest/weekly-contest-317/problems/most-popular-video-creator",
       "rating": 1492,
@@ -8819,6 +8833,13 @@
       "rating": 1467,
       "difficulty": "medium",
       "contest": "Weekly Contest 338"
+    },
+    {
+      "title": "Count of Substrings Containing Every Vowel and K Consonants I",
+      "url": "https://leetcode.com/contest/weekly-contest-417/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i",
+      "rating": 1467,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 417"
     },
     {
       "title": "Before and After Puzzle",
@@ -9500,13 +9521,6 @@
       "contest": "Biweekly Contest 50"
     },
     {
-      "title": "Maximize the Total Height of Unique Towers",
-      "url": "https://leetcode.com/contest/biweekly-contest-140/problems/maximize-the-total-height-of-unique-towers",
-      "rating": 1391,
-      "difficulty": "medium",
-      "contest": "Biweekly Contest 140"
-    },
-    {
       "title": "Palindromic Substrings",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-42/problems/palindromic-substrings",
       "rating": 1389,
@@ -9540,6 +9554,13 @@
       "rating": 1387,
       "difficulty": "medium",
       "contest": "Biweekly Contest 80"
+    },
+    {
+      "title": "Maximize the Total Height of Unique Towers",
+      "url": "https://leetcode.com/contest/biweekly-contest-140/problems/maximize-the-total-height-of-unique-towers",
+      "rating": 1387,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 140"
     },
     {
       "title": "Subarray Sum Equals K",
@@ -13406,18 +13427,18 @@
       "contest": "Weekly Contest 137"
     },
     {
-      "title": "Find the K-th Character in String Game I",
-      "url": "https://leetcode.com/contest/weekly-contest-417/problems/find-the-k-th-character-in-string-game-i",
-      "rating": 815,
-      "difficulty": "easy",
-      "contest": "Weekly Contest 417"
-    },
-    {
       "title": "Count Hills and Valleys in an Array",
       "url": "https://leetcode.com/contest/weekly-contest-285/problems/count-hills-and-valleys-in-an-array",
       "rating": 814,
       "difficulty": "easy",
       "contest": "Weekly Contest 285"
+    },
+    {
+      "title": "Find the K-th Character in String Game I",
+      "url": "https://leetcode.com/contest/weekly-contest-417/problems/find-the-k-th-character-in-string-game-i",
+      "rating": 811,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 417"
     },
     {
       "title": "Alternating Digit Sum",
@@ -13670,6 +13691,13 @@
       "rating": 780,
       "difficulty": "medium",
       "contest": "Weekly Contest 122"
+    },
+    {
+      "title": "Maximum Possible Number by Binary Concatenation",
+      "url": "https://leetcode.com/contest/weekly-contest-418/problems/maximum-possible-number-by-binary-concatenation",
+      "rating": 778,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 418"
     },
     {
       "title": "Row With Maximum Ones",
@@ -14953,13 +14981,6 @@
       "contest": "Biweekly Contest 35"
     },
     {
-      "title": "Minimum Element After Replacement With Digit Sum",
-      "url": "https://leetcode.com/contest/biweekly-contest-140/problems/minimum-element-after-replacement-with-digit-sum",
-      "rating": 582,
-      "difficulty": "easy",
-      "contest": "Biweekly Contest 140"
-    },
-    {
       "title": "Score of a String",
       "url": "https://leetcode.com/contest/biweekly-contest-128/problems/score-of-a-string",
       "rating": 581,
@@ -14972,6 +14993,13 @@
       "rating": 580,
       "difficulty": "easy",
       "contest": "Weekly Contest 410"
+    },
+    {
+      "title": "Minimum Element After Replacement With Digit Sum",
+      "url": "https://leetcode.com/contest/biweekly-contest-140/problems/minimum-element-after-replacement-with-digit-sum",
+      "rating": 580,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 140"
     },
     {
       "title": "Counting Words With a Given Prefix",
