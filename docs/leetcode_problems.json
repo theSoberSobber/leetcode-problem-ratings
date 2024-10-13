@@ -358,18 +358,18 @@
       "contest": "Weekly Contest 294"
     },
     {
-      "title": "Construct 2D Grid Matching Graph Layout",
-      "url": "https://leetcode.com/contest/weekly-contest-418/problems/construct-2d-grid-matching-graph-layout",
-      "rating": 2648,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 418"
-    },
-    {
       "title": "Minimum Skips to Arrive at Meeting On Time",
       "url": "https://leetcode.com/contest/weekly-contest-243/problems/minimum-skips-to-arrive-at-meeting-on-time",
       "rating": 2646,
       "difficulty": "hard",
       "contest": "Weekly Contest 243"
+    },
+    {
+      "title": "Construct 2D Grid Matching Graph Layout",
+      "url": "https://leetcode.com/contest/weekly-contest-418/problems/construct-2d-grid-matching-graph-layout",
+      "rating": 2645,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 418"
     },
     {
       "title": "Maximum Number of Groups With Increasing Length",
@@ -722,6 +722,13 @@
       "contest": "Biweekly Contest 18"
     },
     {
+      "title": "Sorted GCD Pair Queries",
+      "url": "https://leetcode.com/contest/weekly-contest-418/problems/sorted-gcd-pair-queries",
+      "rating": 2514,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 418"
+    },
+    {
       "title": "Steps to Make Array Non-decreasing",
       "url": "https://leetcode.com/contest/weekly-contest-295/problems/steps-to-make-array-non-decreasing",
       "rating": 2513,
@@ -755,13 +762,6 @@
       "rating": 2500,
       "difficulty": "hard",
       "contest": "Biweekly Contest 47"
-    },
-    {
-      "title": "Sorted GCD Pair Queries",
-      "url": "https://leetcode.com/contest/weekly-contest-418/problems/sorted-gcd-pair-queries",
-      "rating": 2500,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 418"
     },
     {
       "title": "Maximum Value Sum by Placing Three Rooks II",
@@ -1553,6 +1553,13 @@
       "rating": 2322,
       "difficulty": "hard",
       "contest": "Biweekly Contest 125"
+    },
+    {
+      "title": "Find the Number of Possible Ways for an Event",
+      "url": "https://leetcode.com/contest/biweekly-contest-141/problems/find-the-number-of-possible-ways-for-an-event",
+      "rating": 2322,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 141"
     },
     {
       "title": "Count Subtrees With Max Distance Between Cities",
@@ -3667,6 +3674,13 @@
       "rating": 2017,
       "difficulty": "medium",
       "contest": "Biweekly Contest 35"
+    },
+    {
+      "title": "Find Maximum Removals From Source String",
+      "url": "https://leetcode.com/contest/biweekly-contest-141/problems/find-maximum-removals-from-source-string",
+      "rating": 2017,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 141"
     },
     {
       "title": "Maximum Number of Events That Can Be Attended",
@@ -7302,6 +7316,13 @@
       "contest": "Weekly Contest 115"
     },
     {
+      "title": "Construct the Minimum Bitwise Array II",
+      "url": "https://leetcode.com/contest/biweekly-contest-141/problems/construct-the-minimum-bitwise-array-ii",
+      "rating": 1625,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 141"
+    },
+    {
       "title": "Lonely Pixel II",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-22/problems/lonely-pixel-ii",
       "rating": 1624,
@@ -7675,7 +7696,7 @@
     {
       "title": "Remove Methods From Project",
       "url": "https://leetcode.com/contest/weekly-contest-418/problems/remove-methods-from-project",
-      "rating": 1591,
+      "rating": 1590,
       "difficulty": "medium",
       "contest": "Weekly Contest 418"
     },
@@ -13693,13 +13714,6 @@
       "contest": "Weekly Contest 122"
     },
     {
-      "title": "Maximum Possible Number by Binary Concatenation",
-      "url": "https://leetcode.com/contest/weekly-contest-418/problems/maximum-possible-number-by-binary-concatenation",
-      "rating": 778,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 418"
-    },
-    {
       "title": "Row With Maximum Ones",
       "url": "https://leetcode.com/contest/weekly-contest-341/problems/row-with-maximum-ones",
       "rating": 777,
@@ -13761,6 +13775,13 @@
       "rating": 770,
       "difficulty": "easy",
       "contest": "Biweekly Contest 62"
+    },
+    {
+      "title": "Maximum Possible Number by Binary Concatenation",
+      "url": "https://leetcode.com/contest/weekly-contest-418/problems/maximum-possible-number-by-binary-concatenation",
+      "rating": 768,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 418"
     },
     {
       "title": "Find the Array Concatenation Value",
@@ -15247,6 +15268,13 @@
       "contest": "Weekly Contest 221"
     },
     {
+      "title": "Construct the Minimum Bitwise Array I",
+      "url": "https://leetcode.com/contest/biweekly-contest-141/problems/construct-the-minimum-bitwise-array-i",
+      "rating": 546,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 141"
+    },
+    {
       "title": "Find Greatest Common Divisor of Array",
       "url": "https://leetcode.com/contest/weekly-contest-255/problems/find-greatest-common-divisor-of-array",
       "rating": 543,
@@ -15749,6 +15777,34 @@
       "rating": 337,
       "difficulty": "easy",
       "contest": "Weekly Contest 249"
+    },
+    {
+      "title": "Find X-Sum of All K-Long Subarrays I",
+      "url": "https://leetcode.com/contest/weekly-contest-419/problems/find-x-sum-of-all-k-long-subarrays-i",
+      "rating": 0,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 419"
+    },
+    {
+      "title": "K-th Largest Perfect Subtree Size in Binary Tree",
+      "url": "https://leetcode.com/contest/weekly-contest-419/problems/k-th-largest-perfect-subtree-size-in-binary-tree",
+      "rating": 0,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 419"
+    },
+    {
+      "title": "Count The Number of Winning Sequences",
+      "url": "https://leetcode.com/contest/weekly-contest-419/problems/count-the-number-of-winning-sequences",
+      "rating": 0,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 419"
+    },
+    {
+      "title": "Find X-Sum of All K-Long Subarrays II",
+      "url": "https://leetcode.com/contest/weekly-contest-419/problems/find-x-sum-of-all-k-long-subarrays-ii",
+      "rating": 0,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 419"
     }
   ]
 }
