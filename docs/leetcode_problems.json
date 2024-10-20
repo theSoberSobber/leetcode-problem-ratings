@@ -512,6 +512,13 @@
       "contest": "Weekly Contest 104"
     },
     {
+      "title": "Find X-Sum of All K-Long Subarrays II",
+      "url": "https://leetcode.com/contest/weekly-contest-419/problems/find-x-sum-of-all-k-long-subarrays-ii",
+      "rating": 2595,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 419"
+    },
+    {
       "title": "Smallest K-Length Subsequence With Occurrences of a Letter",
       "url": "https://leetcode.com/contest/weekly-contest-261/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter",
       "rating": 2592,
@@ -1149,6 +1156,13 @@
       "contest": "Weekly Contest 114"
     },
     {
+      "title": "Find the Number of Possible Ways for an Event",
+      "url": "https://leetcode.com/contest/biweekly-contest-141/problems/find-the-number-of-possible-ways-for-an-event",
+      "rating": 2408,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 141"
+    },
+    {
       "title": "Closest Subsequence Sum",
       "url": "https://leetcode.com/contest/weekly-contest-227/problems/closest-subsequence-sum",
       "rating": 2407,
@@ -1553,13 +1567,6 @@
       "rating": 2322,
       "difficulty": "hard",
       "contest": "Biweekly Contest 125"
-    },
-    {
-      "title": "Find the Number of Possible Ways for an Event",
-      "url": "https://leetcode.com/contest/biweekly-contest-141/problems/find-the-number-of-possible-ways-for-an-event",
-      "rating": 2322,
-      "difficulty": "hard",
-      "contest": "Biweekly Contest 141"
     },
     {
       "title": "Count Subtrees With Max Distance Between Cities",
@@ -2857,6 +2864,13 @@
       "contest": "Weekly Contest 351"
     },
     {
+      "title": "Count The Number of Winning Sequences",
+      "url": "https://leetcode.com/contest/weekly-contest-419/problems/count-the-number-of-winning-sequences",
+      "rating": 2103,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 419"
+    },
+    {
       "title": "Triples with Bitwise AND Equal To Zero",
       "url": "https://leetcode.com/contest/weekly-contest-121/problems/triples-with-bitwise-and-equal-to-zero",
       "rating": 2102,
@@ -3445,6 +3459,13 @@
       "contest": "Weekly Contest 329"
     },
     {
+      "title": "Find Maximum Removals From Source String",
+      "url": "https://leetcode.com/contest/biweekly-contest-141/problems/find-maximum-removals-from-source-string",
+      "rating": 2045,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 141"
+    },
+    {
       "title": "Most Profitable Path in a Tree",
       "url": "https://leetcode.com/contest/biweekly-contest-91/problems/most-profitable-path-in-a-tree",
       "rating": 2044,
@@ -3674,13 +3695,6 @@
       "rating": 2017,
       "difficulty": "medium",
       "contest": "Biweekly Contest 35"
-    },
-    {
-      "title": "Find Maximum Removals From Source String",
-      "url": "https://leetcode.com/contest/biweekly-contest-141/problems/find-maximum-removals-from-source-string",
-      "rating": 2017,
-      "difficulty": "medium",
-      "contest": "Biweekly Contest 141"
     },
     {
       "title": "Maximum Number of Events That Can Be Attended",
@@ -7288,6 +7302,13 @@
       "contest": "Biweekly Contest 130"
     },
     {
+      "title": "Construct the Minimum Bitwise Array II",
+      "url": "https://leetcode.com/contest/biweekly-contest-141/problems/construct-the-minimum-bitwise-array-ii",
+      "rating": 1629,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 141"
+    },
+    {
       "title": "Reverse Nodes in Even Length Groups",
       "url": "https://leetcode.com/contest/weekly-contest-267/problems/reverse-nodes-in-even-length-groups",
       "rating": 1628,
@@ -7314,13 +7335,6 @@
       "rating": 1625,
       "difficulty": "medium",
       "contest": "Weekly Contest 115"
-    },
-    {
-      "title": "Construct the Minimum Bitwise Array II",
-      "url": "https://leetcode.com/contest/biweekly-contest-141/problems/construct-the-minimum-bitwise-array-ii",
-      "rating": 1625,
-      "difficulty": "medium",
-      "contest": "Biweekly Contest 141"
     },
     {
       "title": "Lonely Pixel II",
@@ -9274,6 +9288,13 @@
       "rating": 1416,
       "difficulty": "medium",
       "contest": "Weekly Contest 344"
+    },
+    {
+      "title": "K-th Largest Perfect Subtree Size in Binary Tree",
+      "url": "https://leetcode.com/contest/weekly-contest-419/problems/k-th-largest-perfect-subtree-size-in-binary-tree",
+      "rating": 1415,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 419"
     },
     {
       "title": "Largest Values From Labels",
@@ -12172,6 +12193,13 @@
       "rating": 1042,
       "difficulty": "medium",
       "contest": "Biweekly Contest 83"
+    },
+    {
+      "title": "Find X-Sum of All K-Long Subarrays I",
+      "url": "https://leetcode.com/contest/weekly-contest-419/problems/find-x-sum-of-all-k-long-subarrays-i",
+      "rating": 1041,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 419"
     },
     {
       "title": "Number of Laser Beams in a Bank",
@@ -15212,6 +15240,13 @@
       "contest": "Weekly Contest 309"
     },
     {
+      "title": "Construct the Minimum Bitwise Array I",
+      "url": "https://leetcode.com/contest/biweekly-contest-141/problems/construct-the-minimum-bitwise-array-i",
+      "rating": 556,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 141"
+    },
+    {
       "title": "Construct the Rectangle",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-16b/problems/construct-the-rectangle",
       "rating": 551,
@@ -15266,13 +15301,6 @@
       "rating": 546,
       "difficulty": "easy",
       "contest": "Weekly Contest 221"
-    },
-    {
-      "title": "Construct the Minimum Bitwise Array I",
-      "url": "https://leetcode.com/contest/biweekly-contest-141/problems/construct-the-minimum-bitwise-array-i",
-      "rating": 546,
-      "difficulty": "easy",
-      "contest": "Biweekly Contest 141"
     },
     {
       "title": "Find Greatest Common Divisor of Array",
@@ -15779,32 +15807,32 @@
       "contest": "Weekly Contest 249"
     },
     {
-      "title": "Find X-Sum of All K-Long Subarrays I",
-      "url": "https://leetcode.com/contest/weekly-contest-419/problems/find-x-sum-of-all-k-long-subarrays-i",
-      "rating": 0,
-      "difficulty": "easy",
-      "contest": "Weekly Contest 419"
-    },
-    {
-      "title": "K-th Largest Perfect Subtree Size in Binary Tree",
-      "url": "https://leetcode.com/contest/weekly-contest-419/problems/k-th-largest-perfect-subtree-size-in-binary-tree",
+      "title": "Find the Sequence of Strings Appeared on the Screen",
+      "url": "https://leetcode.com/contest/weekly-contest-420/problems/find-the-sequence-of-strings-appeared-on-the-screen",
       "rating": 0,
       "difficulty": "medium",
-      "contest": "Weekly Contest 419"
+      "contest": "Weekly Contest 420"
     },
     {
-      "title": "Count The Number of Winning Sequences",
-      "url": "https://leetcode.com/contest/weekly-contest-419/problems/count-the-number-of-winning-sequences",
+      "title": "Count Substrings With K-Frequency Characters I",
+      "url": "https://leetcode.com/contest/weekly-contest-420/problems/count-substrings-with-k-frequency-characters-i",
       "rating": 0,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 419"
+      "difficulty": "medium",
+      "contest": "Weekly Contest 420"
     },
     {
-      "title": "Find X-Sum of All K-Long Subarrays II",
-      "url": "https://leetcode.com/contest/weekly-contest-419/problems/find-x-sum-of-all-k-long-subarrays-ii",
+      "title": "Minimum Division Operations to Make Array Non Decreasing",
+      "url": "https://leetcode.com/contest/weekly-contest-420/problems/minimum-division-operations-to-make-array-non-decreasing",
+      "rating": 0,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 420"
+    },
+    {
+      "title": "Check if DFS Strings Are Palindromes",
+      "url": "https://leetcode.com/contest/weekly-contest-420/problems/check-if-dfs-strings-are-palindromes",
       "rating": 0,
       "difficulty": "hard",
-      "contest": "Weekly Contest 419"
+      "contest": "Weekly Contest 420"
     }
   ]
 }
