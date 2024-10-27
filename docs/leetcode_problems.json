@@ -610,6 +610,13 @@
       "contest": "Weekly Contest 249"
     },
     {
+      "title": "Find the Original Typed String II",
+      "url": "https://leetcode.com/contest/biweekly-contest-142/problems/find-the-original-typed-string-ii",
+      "rating": 2563,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 142"
+    },
+    {
       "title": "Minimum Cost to Change the Final Value of Expression",
       "url": "https://leetcode.com/contest/biweekly-contest-54/problems/minimum-cost-to-change-the-final-value-of-expression",
       "rating": 2562,
@@ -867,6 +874,13 @@
       "rating": 2475,
       "difficulty": "hard",
       "contest": "Biweekly Contest 139"
+    },
+    {
+      "title": "Check if DFS Strings Are Palindromes",
+      "url": "https://leetcode.com/contest/weekly-contest-420/problems/check-if-dfs-strings-are-palindromes",
+      "rating": 2475,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 420"
     },
     {
       "title": "Moving Stones Until Consecutive II",
@@ -1485,6 +1499,13 @@
       "contest": "Biweekly Contest 133"
     },
     {
+      "title": "Find the Number of Subsequences With Equal GCD",
+      "url": "https://leetcode.com/contest/weekly-contest-421/problems/find-the-number-of-subsequences-with-equal-gcd",
+      "rating": 2343,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 421"
+    },
+    {
       "title": "Make Array Strictly Increasing",
       "url": "https://leetcode.com/contest/weekly-contest-153/problems/make-array-strictly-increasing",
       "rating": 2341,
@@ -1511,6 +1532,13 @@
       "rating": 2330,
       "difficulty": "medium",
       "contest": "Weekly Contest 108"
+    },
+    {
+      "title": "Total Characters in String After Transformations II",
+      "url": "https://leetcode.com/contest/weekly-contest-421/problems/total-characters-in-string-after-transformations-ii",
+      "rating": 2329,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 421"
     },
     {
       "title": "Checking Existence of Edge Length Limited Paths",
@@ -5629,6 +5657,13 @@
       "contest": "Biweekly Contest 102"
     },
     {
+      "title": "Minimum Division Operations to Make Array Non Decreasing",
+      "url": "https://leetcode.com/contest/weekly-contest-420/problems/minimum-division-operations-to-make-array-non-decreasing",
+      "rating": 1794,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 420"
+    },
+    {
       "title": "Minesweeper",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-21/problems/minesweeper",
       "rating": 1792,
@@ -5909,6 +5944,13 @@
       "contest": "Weekly Contest 186"
     },
     {
+      "title": "Maximum Points Tourist Can Earn",
+      "url": "https://leetcode.com/contest/biweekly-contest-142/problems/maximum-points-tourist-can-earn",
+      "rating": 1763,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 142"
+    },
+    {
       "title": "Stone Game IV",
       "url": "https://leetcode.com/contest/biweekly-contest-30/problems/stone-game-iv",
       "rating": 1762,
@@ -5956,6 +5998,13 @@
       "rating": 1756,
       "difficulty": "medium",
       "contest": "Weekly Contest 348"
+    },
+    {
+      "title": "Find Subtree Sizes After Changes",
+      "url": "https://leetcode.com/contest/biweekly-contest-142/problems/find-subtree-sizes-after-changes",
+      "rating": 1755,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 142"
     },
     {
       "title": "Find Indices With Index and Value Difference II",
@@ -6782,6 +6831,13 @@
       "rating": 1681,
       "difficulty": "medium",
       "contest": "Weekly Contest 415"
+    },
+    {
+      "title": "Total Characters in String After Transformations I",
+      "url": "https://leetcode.com/contest/weekly-contest-421/problems/total-characters-in-string-after-transformations-i",
+      "rating": 1681,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 421"
     },
     {
       "title": "Minimum Operations to Write the Letter Y on a Grid",
@@ -10228,6 +10284,13 @@
       "contest": "Weekly Contest 251"
     },
     {
+      "title": "Count Substrings With K-Frequency Characters I",
+      "url": "https://leetcode.com/contest/weekly-contest-420/problems/count-substrings-with-k-frequency-characters-i",
+      "rating": 1318,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 420"
+    },
+    {
       "title": "Remove Adjacent Almost-Equal Characters",
       "url": "https://leetcode.com/contest/biweekly-contest-119/problems/remove-adjacent-almost-equal-characters",
       "rating": 1317,
@@ -12503,6 +12566,13 @@
       "contest": "Weekly Contest 18B"
     },
     {
+      "title": "Find the Maximum Factor Score of Array",
+      "url": "https://leetcode.com/contest/weekly-contest-421/problems/find-the-maximum-factor-score-of-array",
+      "rating": 993,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 421"
+    },
+    {
       "title": "Latest Time You Can Obtain After Replacing Characters",
       "url": "https://leetcode.com/contest/weekly-contest-393/problems/latest-time-you-can-obtain-after-replacing-characters",
       "rating": 992,
@@ -12963,6 +13033,13 @@
       "rating": 911,
       "difficulty": "easy",
       "contest": "Biweekly Contest 102"
+    },
+    {
+      "title": "Find the Sequence of Strings Appeared on the Screen",
+      "url": "https://leetcode.com/contest/weekly-contest-420/problems/find-the-sequence-of-strings-appeared-on-the-screen",
+      "rating": 910,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 420"
     },
     {
       "title": "Two Sum IV - Input is a BST",
@@ -13957,6 +14034,13 @@
       "rating": 745,
       "difficulty": "easy",
       "contest": "Weekly Contest 169"
+    },
+    {
+      "title": "Find the Original Typed String I",
+      "url": "https://leetcode.com/contest/biweekly-contest-142/problems/find-the-original-typed-string-i",
+      "rating": 745,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 142"
     },
     {
       "title": "Sort the People",
@@ -15805,34 +15889,6 @@
       "rating": 337,
       "difficulty": "easy",
       "contest": "Weekly Contest 249"
-    },
-    {
-      "title": "Find the Sequence of Strings Appeared on the Screen",
-      "url": "https://leetcode.com/contest/weekly-contest-420/problems/find-the-sequence-of-strings-appeared-on-the-screen",
-      "rating": 0,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 420"
-    },
-    {
-      "title": "Count Substrings With K-Frequency Characters I",
-      "url": "https://leetcode.com/contest/weekly-contest-420/problems/count-substrings-with-k-frequency-characters-i",
-      "rating": 0,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 420"
-    },
-    {
-      "title": "Minimum Division Operations to Make Array Non Decreasing",
-      "url": "https://leetcode.com/contest/weekly-contest-420/problems/minimum-division-operations-to-make-array-non-decreasing",
-      "rating": 0,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 420"
-    },
-    {
-      "title": "Check if DFS Strings Are Palindromes",
-      "url": "https://leetcode.com/contest/weekly-contest-420/problems/check-if-dfs-strings-are-palindromes",
-      "rating": 0,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 420"
     }
   ]
 }
