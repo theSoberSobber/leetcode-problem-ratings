@@ -407,6 +407,13 @@
       "contest": "Weekly Contest 301"
     },
     {
+      "title": "Find the Original Typed String II",
+      "url": "https://leetcode.com/contest/biweekly-contest-142/problems/find-the-original-typed-string-ii",
+      "rating": 2634,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 142"
+    },
+    {
       "title": "Minimum Total Cost to Make Arrays Unequal",
       "url": "https://leetcode.com/contest/biweekly-contest-93/problems/minimum-total-cost-to-make-arrays-unequal",
       "rating": 2632,
@@ -533,6 +540,13 @@
       "contest": "Weekly Contest 207"
     },
     {
+      "title": "Count Number of Balanced Permutations",
+      "url": "https://leetcode.com/contest/weekly-contest-422/problems/count-number-of-balanced-permutations",
+      "rating": 2590,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 422"
+    },
+    {
       "title": "Number of Different Subsequences GCDs",
       "url": "https://leetcode.com/contest/weekly-contest-235/problems/number-of-different-subsequences-gcds",
       "rating": 2587,
@@ -608,13 +622,6 @@
       "rating": 2563,
       "difficulty": "hard",
       "contest": "Weekly Contest 249"
-    },
-    {
-      "title": "Find the Original Typed String II",
-      "url": "https://leetcode.com/contest/biweekly-contest-142/problems/find-the-original-typed-string-ii",
-      "rating": 2563,
-      "difficulty": "hard",
-      "contest": "Biweekly Contest 142"
     },
     {
       "title": "Minimum Cost to Change the Final Value of Expression",
@@ -1233,6 +1240,13 @@
       "contest": "Weekly Contest 198"
     },
     {
+      "title": "Total Characters in String After Transformations II",
+      "url": "https://leetcode.com/contest/weekly-contest-421/problems/total-characters-in-string-after-transformations-ii",
+      "rating": 2400,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 421"
+    },
+    {
       "title": "Split Message Based on Limit",
       "url": "https://leetcode.com/contest/biweekly-contest-91/problems/split-message-based-on-limit",
       "rating": 2399,
@@ -1329,6 +1343,13 @@
       "rating": 2379,
       "difficulty": "medium",
       "contest": "Weekly Contest 85"
+    },
+    {
+      "title": "Find the Number of Subsequences With Equal GCD",
+      "url": "https://leetcode.com/contest/weekly-contest-421/problems/find-the-number-of-subsequences-with-equal-gcd",
+      "rating": 2376,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 421"
     },
     {
       "title": "Find the Maximum Length of a Good Subsequence II",
@@ -1499,13 +1520,6 @@
       "contest": "Biweekly Contest 133"
     },
     {
-      "title": "Find the Number of Subsequences With Equal GCD",
-      "url": "https://leetcode.com/contest/weekly-contest-421/problems/find-the-number-of-subsequences-with-equal-gcd",
-      "rating": 2343,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 421"
-    },
-    {
       "title": "Make Array Strictly Increasing",
       "url": "https://leetcode.com/contest/weekly-contest-153/problems/make-array-strictly-increasing",
       "rating": 2341,
@@ -1532,13 +1546,6 @@
       "rating": 2330,
       "difficulty": "medium",
       "contest": "Weekly Contest 108"
-    },
-    {
-      "title": "Total Characters in String After Transformations II",
-      "url": "https://leetcode.com/contest/weekly-contest-421/problems/total-characters-in-string-after-transformations-ii",
-      "rating": 2329,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 421"
     },
     {
       "title": "Checking Existence of Edge Length Limited Paths",
@@ -3641,6 +3648,13 @@
       "contest": "Weekly Contest 316"
     },
     {
+      "title": "Find Subtree Sizes After Changes",
+      "url": "https://leetcode.com/contest/biweekly-contest-142/problems/find-subtree-sizes-after-changes",
+      "rating": 2027,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 142"
+    },
+    {
       "title": "Non-negative Integers without Consecutive Ones",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-34/problems/non-negative-integers-without-consecutive-ones",
       "rating": 2026,
@@ -5188,6 +5202,13 @@
       "contest": "Weekly Contest 285"
     },
     {
+      "title": "Find Minimum Time to Reach Last Room II",
+      "url": "https://leetcode.com/contest/weekly-contest-422/problems/find-minimum-time-to-reach-last-room-ii",
+      "rating": 1846,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 422"
+    },
+    {
       "title": "Beautiful Arrangement II",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-47/problems/beautiful-arrangement-ii",
       "rating": 1844,
@@ -5741,6 +5762,13 @@
       "contest": "Weekly Contest 27"
     },
     {
+      "title": "Maximum Points Tourist Can Earn",
+      "url": "https://leetcode.com/contest/biweekly-contest-142/problems/maximum-points-tourist-can-earn",
+      "rating": 1785,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 142"
+    },
+    {
       "title": "Maximum Binary String After Change",
       "url": "https://leetcode.com/contest/biweekly-contest-42/problems/maximum-binary-string-after-change",
       "rating": 1782,
@@ -5944,13 +5972,6 @@
       "contest": "Weekly Contest 186"
     },
     {
-      "title": "Maximum Points Tourist Can Earn",
-      "url": "https://leetcode.com/contest/biweekly-contest-142/problems/maximum-points-tourist-can-earn",
-      "rating": 1763,
-      "difficulty": "medium",
-      "contest": "Biweekly Contest 142"
-    },
-    {
       "title": "Stone Game IV",
       "url": "https://leetcode.com/contest/biweekly-contest-30/problems/stone-game-iv",
       "rating": 1762,
@@ -5998,13 +6019,6 @@
       "rating": 1756,
       "difficulty": "medium",
       "contest": "Weekly Contest 348"
-    },
-    {
-      "title": "Find Subtree Sizes After Changes",
-      "url": "https://leetcode.com/contest/biweekly-contest-142/problems/find-subtree-sizes-after-changes",
-      "rating": 1755,
-      "difficulty": "medium",
-      "contest": "Biweekly Contest 142"
     },
     {
       "title": "Find Indices With Index and Value Difference II",
@@ -6623,6 +6637,13 @@
       "contest": "Weekly Contest 65"
     },
     {
+      "title": "Find Minimum Time to Reach Last Room I",
+      "url": "https://leetcode.com/contest/weekly-contest-422/problems/find-minimum-time-to-reach-last-room-i",
+      "rating": 1697,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 422"
+    },
+    {
       "title": "Lexicographical Numbers",
       "url": "https://leetcode.com/contest/warm-up-contest/problems/lexicographical-numbers",
       "rating": 1695,
@@ -6791,6 +6812,13 @@
       "contest": "Weekly Contest 157"
     },
     {
+      "title": "Total Characters in String After Transformations I",
+      "url": "https://leetcode.com/contest/weekly-contest-421/problems/total-characters-in-string-after-transformations-i",
+      "rating": 1687,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 421"
+    },
+    {
       "title": "Parallel Courses",
       "url": "https://leetcode.com/contest/biweekly-contest-5/problems/parallel-courses",
       "rating": 1686,
@@ -6831,13 +6859,6 @@
       "rating": 1681,
       "difficulty": "medium",
       "contest": "Weekly Contest 415"
-    },
-    {
-      "title": "Total Characters in String After Transformations I",
-      "url": "https://leetcode.com/contest/weekly-contest-421/problems/total-characters-in-string-after-transformations-i",
-      "rating": 1681,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 421"
     },
     {
       "title": "Minimum Operations to Write the Letter Y on a Grid",
@@ -12517,6 +12538,13 @@
       "contest": "Biweekly Contest 75"
     },
     {
+      "title": "Find the Maximum Factor Score of Array",
+      "url": "https://leetcode.com/contest/weekly-contest-421/problems/find-the-maximum-factor-score-of-array",
+      "rating": 1001,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 421"
+    },
+    {
       "title": "Minimum Absolute Difference in BST",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-21/problems/minimum-absolute-difference-in-bst",
       "rating": 999,
@@ -12564,13 +12592,6 @@
       "rating": 993,
       "difficulty": "easy",
       "contest": "Weekly Contest 18B"
-    },
-    {
-      "title": "Find the Maximum Factor Score of Array",
-      "url": "https://leetcode.com/contest/weekly-contest-421/problems/find-the-maximum-factor-score-of-array",
-      "rating": 993,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 421"
     },
     {
       "title": "Latest Time You Can Obtain After Replacing Characters",
@@ -14036,13 +14057,6 @@
       "contest": "Weekly Contest 169"
     },
     {
-      "title": "Find the Original Typed String I",
-      "url": "https://leetcode.com/contest/biweekly-contest-142/problems/find-the-original-typed-string-i",
-      "rating": 745,
-      "difficulty": "easy",
-      "contest": "Biweekly Contest 142"
-    },
-    {
       "title": "Sort the People",
       "url": "https://leetcode.com/contest/weekly-contest-312/problems/sort-the-people",
       "rating": 743,
@@ -14167,6 +14181,13 @@
       "rating": 715,
       "difficulty": "easy",
       "contest": "Weekly Contest 253"
+    },
+    {
+      "title": "Find the Original Typed String I",
+      "url": "https://leetcode.com/contest/biweekly-contest-142/problems/find-the-original-typed-string-i",
+      "rating": 715,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 142"
     },
     {
       "title": "Get Maximum in Generated Array",
@@ -15420,6 +15441,13 @@
       "rating": 538,
       "difficulty": "easy",
       "contest": "Weekly Contest 224"
+    },
+    {
+      "title": "Check Balanced String",
+      "url": "https://leetcode.com/contest/weekly-contest-422/problems/check-balanced-string",
+      "rating": 536,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 422"
     },
     {
       "title": "Type of Triangle",
