@@ -22,6 +22,13 @@
       "contest": "Weekly Contest 409"
     },
     {
+      "title": "Smallest Divisible Digit Product II",
+      "url": "https://leetcode.com/contest/biweekly-contest-143/problems/smallest-divisible-digit-product-ii",
+      "rating": 3105,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 143"
+    },
+    {
       "title": "Number Of Ways To Reconstruct A Tree",
       "url": "https://leetcode.com/contest/biweekly-contest-43/problems/number-of-ways-to-reconstruct-a-tree",
       "rating": 3063,
@@ -428,6 +435,13 @@
       "contest": "Biweekly Contest 49"
     },
     {
+      "title": "Count Number of Balanced Permutations",
+      "url": "https://leetcode.com/contest/weekly-contest-422/problems/count-number-of-balanced-permutations",
+      "rating": 2627,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 422"
+    },
+    {
       "title": "Longest Subsequence Repeated k Times",
       "url": "https://leetcode.com/contest/weekly-contest-259/problems/longest-subsequence-repeated-k-times",
       "rating": 2626,
@@ -538,13 +552,6 @@
       "rating": 2590,
       "difficulty": "hard",
       "contest": "Weekly Contest 207"
-    },
-    {
-      "title": "Count Number of Balanced Permutations",
-      "url": "https://leetcode.com/contest/weekly-contest-422/problems/count-number-of-balanced-permutations",
-      "rating": 2590,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 422"
     },
     {
       "title": "Number of Different Subsequences GCDs",
@@ -874,6 +881,13 @@
       "rating": 2479,
       "difficulty": "hard",
       "contest": "Weekly Contest 312"
+    },
+    {
+      "title": "Count K-Reducible Numbers Less Than N",
+      "url": "https://leetcode.com/contest/weekly-contest-423/problems/count-k-reducible-numbers-less-than-n",
+      "rating": 2479,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 423"
     },
     {
       "title": "Length of the Longest Increasing Path",
@@ -3095,6 +3109,13 @@
       "contest": "Weekly Contest 316"
     },
     {
+      "title": "Maximum Frequency of an Element After Performing Operations II",
+      "url": "https://leetcode.com/contest/biweekly-contest-143/problems/maximum-frequency-of-an-element-after-performing-operations-ii",
+      "rating": 2084,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 143"
+    },
+    {
       "title": "Remove Comments",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-57/problems/remove-comments",
       "rating": 2083,
@@ -3422,6 +3443,13 @@
       "rating": 2050,
       "difficulty": "medium",
       "contest": "Weekly Contest 214"
+    },
+    {
+      "title": "Sum of Good Subsequences",
+      "url": "https://leetcode.com/contest/weekly-contest-423/problems/sum-of-good-subsequences",
+      "rating": 2050,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 423"
     },
     {
       "title": "Count Anagrams",
@@ -5202,13 +5230,6 @@
       "contest": "Weekly Contest 285"
     },
     {
-      "title": "Find Minimum Time to Reach Last Room II",
-      "url": "https://leetcode.com/contest/weekly-contest-422/problems/find-minimum-time-to-reach-last-room-ii",
-      "rating": 1846,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 422"
-    },
-    {
       "title": "Beautiful Arrangement II",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-47/problems/beautiful-arrangement-ii",
       "rating": 1844,
@@ -5263,6 +5284,13 @@
       "rating": 1842,
       "difficulty": "medium",
       "contest": "Weekly Contest 334"
+    },
+    {
+      "title": "Maximum Frequency of an Element After Performing Operations I",
+      "url": "https://leetcode.com/contest/biweekly-contest-143/problems/maximum-frequency-of-an-element-after-performing-operations-i",
+      "rating": 1841,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 143"
     },
     {
       "title": "Smallest Integer Divisible by K",
@@ -5704,6 +5732,13 @@
       "rating": 1792,
       "difficulty": "medium",
       "contest": "Weekly Contest 347"
+    },
+    {
+      "title": "Find Minimum Time to Reach Last Room II",
+      "url": "https://leetcode.com/contest/weekly-contest-422/problems/find-minimum-time-to-reach-last-room-ii",
+      "rating": 1792,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 422"
     },
     {
       "title": "Maximum Number of Weeks for Which You Can Work",
@@ -6637,13 +6672,6 @@
       "contest": "Weekly Contest 65"
     },
     {
-      "title": "Find Minimum Time to Reach Last Room I",
-      "url": "https://leetcode.com/contest/weekly-contest-422/problems/find-minimum-time-to-reach-last-room-i",
-      "rating": 1697,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 422"
-    },
-    {
       "title": "Lexicographical Numbers",
       "url": "https://leetcode.com/contest/warm-up-contest/problems/lexicographical-numbers",
       "rating": 1695,
@@ -7272,6 +7300,13 @@
       "rating": 1640,
       "difficulty": "medium",
       "contest": "Weekly Contest 416"
+    },
+    {
+      "title": "Find Minimum Time to Reach Last Room I",
+      "url": "https://leetcode.com/contest/weekly-contest-422/problems/find-minimum-time-to-reach-last-room-i",
+      "rating": 1640,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 422"
     },
     {
       "title": "Convex Polygon",
@@ -8455,6 +8490,13 @@
       "rating": 1514,
       "difficulty": "medium",
       "contest": "Weekly Contest 108"
+    },
+    {
+      "title": "Adjacent Increasing Subarrays Detection II",
+      "url": "https://leetcode.com/contest/weekly-contest-423/problems/adjacent-increasing-subarrays-detection-ii",
+      "rating": 1514,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 423"
     },
     {
       "title": "Random Pick Index",
@@ -14736,6 +14778,13 @@
       "contest": "Weekly Contest 326"
     },
     {
+      "title": "Adjacent Increasing Subarrays Detection I",
+      "url": "https://leetcode.com/contest/weekly-contest-423/problems/adjacent-increasing-subarrays-detection-i",
+      "rating": 643,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 423"
+    },
+    {
       "title": "Cells in a Range on an Excel Sheet",
       "url": "https://leetcode.com/contest/weekly-contest-283/problems/cells-in-a-range-on-an-excel-sheet",
       "rating": 640,
@@ -15268,6 +15317,13 @@
       "contest": "Weekly Contest 412"
     },
     {
+      "title": "Check Balanced String",
+      "url": "https://leetcode.com/contest/weekly-contest-422/problems/check-balanced-string",
+      "rating": 562,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 422"
+    },
+    {
       "title": "Minimum Operations to Make the Array Increasing",
       "url": "https://leetcode.com/contest/biweekly-contest-50/problems/minimum-operations-to-make-the-array-increasing",
       "rating": 561,
@@ -15441,13 +15497,6 @@
       "rating": 538,
       "difficulty": "easy",
       "contest": "Weekly Contest 224"
-    },
-    {
-      "title": "Check Balanced String",
-      "url": "https://leetcode.com/contest/weekly-contest-422/problems/check-balanced-string",
-      "rating": 536,
-      "difficulty": "easy",
-      "contest": "Weekly Contest 422"
     },
     {
       "title": "Type of Triangle",
@@ -15707,6 +15756,13 @@
       "rating": 473,
       "difficulty": "easy",
       "contest": "Weekly Contest 193"
+    },
+    {
+      "title": "Smallest Divisible Digit Product I",
+      "url": "https://leetcode.com/contest/biweekly-contest-143/problems/smallest-divisible-digit-product-i",
+      "rating": 473,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 143"
     },
     {
       "title": "Determine Color of a Chessboard Square",
