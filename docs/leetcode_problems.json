@@ -87,7 +87,7 @@
     {
       "title": "Minimum Operations to Make Character Frequencies Equal",
       "url": "https://leetcode.com/contest/weekly-contest-428/problems/minimum-operations-to-make-character-frequencies-equal",
-      "rating": 2931,
+      "rating": 2934,
       "difficulty": "hard",
       "contest": "Weekly Contest 428"
     },
@@ -1583,6 +1583,13 @@
       "contest": "Biweekly Contest 133"
     },
     {
+      "title": "Count Beautiful Splits in an Array",
+      "url": "https://leetcode.com/contest/weekly-contest-428/problems/count-beautiful-splits-in-an-array",
+      "rating": 2342,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 428"
+    },
+    {
       "title": "Make Array Strictly Increasing",
       "url": "https://leetcode.com/contest/weekly-contest-153/problems/make-array-strictly-increasing",
       "rating": 2341,
@@ -1644,13 +1651,6 @@
       "rating": 2326,
       "difficulty": "hard",
       "contest": "Weekly Contest 163"
-    },
-    {
-      "title": "Count Beautiful Splits in an Array",
-      "url": "https://leetcode.com/contest/weekly-contest-428/problems/count-beautiful-splits-in-an-array",
-      "rating": 2324,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 428"
     },
     {
       "title": "Find Minimum Time to Finish All Jobs",
@@ -6154,13 +6154,6 @@
       "contest": "Weekly Contest 348"
     },
     {
-      "title": "Maximize Amount After Two Days of Conversions",
-      "url": "https://leetcode.com/contest/weekly-contest-428/problems/maximize-amount-after-two-days-of-conversions",
-      "rating": 1756,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 428"
-    },
-    {
       "title": "Find Indices With Index and Value Difference II",
       "url": "https://leetcode.com/contest/weekly-contest-367/problems/find-indices-with-index-and-value-difference-ii",
       "rating": 1754,
@@ -6971,6 +6964,13 @@
       "rating": 1686,
       "difficulty": "medium",
       "contest": "Biweekly Contest 86"
+    },
+    {
+      "title": "Maximize Amount After Two Days of Conversions",
+      "url": "https://leetcode.com/contest/weekly-contest-428/problems/maximize-amount-after-two-days-of-conversions",
+      "rating": 1685,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 428"
     },
     {
       "title": "Maximize the Topmost Element After K Moves",
@@ -16169,6 +16169,62 @@
       "rating": 337,
       "difficulty": "easy",
       "contest": "Weekly Contest 249"
+    },
+    {
+      "title": "Count Subarrays of Length Three With a Condition",
+      "url": "https://leetcode.com/contest/biweekly-contest-146/problems/count-subarrays-of-length-three-with-a-condition",
+      "rating": 0,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 146"
+    },
+    {
+      "title": "Count Paths With the Given XOR Value",
+      "url": "https://leetcode.com/contest/biweekly-contest-146/problems/count-paths-with-the-given-xor-value",
+      "rating": 0,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 146"
+    },
+    {
+      "title": "Check if Grid can be Cut into Sections",
+      "url": "https://leetcode.com/contest/biweekly-contest-146/problems/check-if-grid-can-be-cut-into-sections",
+      "rating": 0,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 146"
+    },
+    {
+      "title": "Subsequences with a Unique Middle Mode I",
+      "url": "https://leetcode.com/contest/biweekly-contest-146/problems/subsequences-with-a-unique-middle-mode-i",
+      "rating": 0,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 146"
+    },
+    {
+      "title": "Minimum Number of Operations to Make Elements in Array Distinct",
+      "url": "https://leetcode.com/contest/weekly-contest-429/problems/minimum-number-of-operations-to-make-elements-in-array-distinct",
+      "rating": 0,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 429"
+    },
+    {
+      "title": "Maximum Number of Distinct Elements After Operations",
+      "url": "https://leetcode.com/contest/weekly-contest-429/problems/maximum-number-of-distinct-elements-after-operations",
+      "rating": 0,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 429"
+    },
+    {
+      "title": "Smallest Substring With Identical Characters I",
+      "url": "https://leetcode.com/contest/weekly-contest-429/problems/smallest-substring-with-identical-characters-i",
+      "rating": 0,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 429"
+    },
+    {
+      "title": "Smallest Substring With Identical Characters II",
+      "url": "https://leetcode.com/contest/weekly-contest-429/problems/smallest-substring-with-identical-characters-ii",
+      "rating": 0,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 429"
     }
   ]
 }
