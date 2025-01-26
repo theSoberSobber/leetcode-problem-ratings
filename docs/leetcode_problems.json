@@ -134,6 +134,13 @@
       "contest": "Weekly Contest 224"
     },
     {
+      "title": "Count Non-Decreasing Subarrays After K Operations",
+      "url": "https://leetcode.com/contest/weekly-contest-432/problems/count-non-decreasing-subarrays-after-k-operations",
+      "rating": 2868,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 432"
+    },
+    {
       "title": "Check if an Original String Exists Given Two Encoded Strings",
       "url": "https://leetcode.com/contest/weekly-contest-265/problems/check-if-an-original-string-exists-given-two-encoded-strings",
       "rating": 2863,
@@ -391,6 +398,13 @@
       "rating": 2659,
       "difficulty": "hard",
       "contest": "Weekly Contest 397"
+    },
+    {
+      "title": "Maximum and Minimum Sums of at Most Size K Subarrays",
+      "url": "https://leetcode.com/contest/weekly-contest-433/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays",
+      "rating": 2659,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 433"
     },
     {
       "title": "Longest Substring of One Repeating Character",
@@ -1184,6 +1198,13 @@
       "contest": "Weekly Contest 374"
     },
     {
+      "title": "Manhattan Distances of All Arrangements of Pieces",
+      "url": "https://leetcode.com/contest/biweekly-contest-148/problems/manhattan-distances-of-all-arrangements-of-pieces",
+      "rating": 2425,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 148"
+    },
+    {
       "title": "Apply Operations to Maximize Score",
       "url": "https://leetcode.com/contest/weekly-contest-358/problems/apply-operations-to-maximize-score",
       "rating": 2423,
@@ -1259,6 +1280,13 @@
       "rating": 2413,
       "difficulty": "hard",
       "contest": "Weekly Contest 336"
+    },
+    {
+      "title": "Longest Special Path",
+      "url": "https://leetcode.com/contest/biweekly-contest-148/problems/longest-special-path",
+      "rating": 2411,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 148"
     },
     {
       "title": "Tallest Billboard",
@@ -2143,6 +2171,13 @@
       "contest": "Weekly Contest 149"
     },
     {
+      "title": "Minimize the Maximum Edge Weight of Graph",
+      "url": "https://leetcode.com/contest/weekly-contest-432/problems/minimize-the-maximum-edge-weight-of-graph",
+      "rating": 2249,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 432"
+    },
+    {
       "title": "Sum of Scores of Built Strings",
       "url": "https://leetcode.com/contest/biweekly-contest-75/problems/sum-of-scores-of-built-strings",
       "rating": 2248,
@@ -2547,6 +2582,13 @@
       "rating": 2170,
       "difficulty": "hard",
       "contest": "Weekly Contest 402"
+    },
+    {
+      "title": "Paint House IV",
+      "url": "https://leetcode.com/contest/weekly-contest-433/problems/paint-house-iv",
+      "rating": 2170,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 433"
     },
     {
       "title": "Minimum Absolute Difference Queries",
@@ -3723,6 +3765,13 @@
       "rating": 2036,
       "difficulty": "medium",
       "contest": "Biweekly Contest 108"
+    },
+    {
+      "title": "Maximum and Minimum Sums of at Most Size K Subsequences",
+      "url": "https://leetcode.com/contest/weekly-contest-433/problems/maximum-and-minimum-sums-of-at-most-size-k-subsequences",
+      "rating": 2036,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 433"
     },
     {
       "title": "Find Maximum Removals From Source String",
@@ -6082,6 +6131,13 @@
       "rating": 1773,
       "difficulty": "medium",
       "contest": "Weekly Contest 305"
+    },
+    {
+      "title": "Maximum Amount of Money Robot Can Earn",
+      "url": "https://leetcode.com/contest/weekly-contest-432/problems/maximum-amount-of-money-robot-can-earn",
+      "rating": 1773,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 432"
     },
     {
       "title": "Minimum Operations to Reduce X to Zero",
@@ -9316,6 +9372,13 @@
       "rating": 1452,
       "difficulty": "medium",
       "contest": "Weekly Contest 114"
+    },
+    {
+      "title": "Minimum Cost to Make Arrays Identical",
+      "url": "https://leetcode.com/contest/biweekly-contest-148/problems/minimum-cost-to-make-arrays-identical",
+      "rating": 1451,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 148"
     },
     {
       "title": "Rotating the Box",
@@ -15786,6 +15849,13 @@
       "contest": "Weekly Contest 221"
     },
     {
+      "title": "Zigzag Grid Traversal With Skip",
+      "url": "https://leetcode.com/contest/weekly-contest-432/problems/zigzag-grid-traversal-with-skip",
+      "rating": 544,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 432"
+    },
+    {
       "title": "Find Greatest Common Divisor of Array",
       "url": "https://leetcode.com/contest/weekly-contest-255/problems/find-greatest-common-divisor-of-array",
       "rating": 543,
@@ -15826,6 +15896,13 @@
       "rating": 538,
       "difficulty": "easy",
       "contest": "Weekly Contest 224"
+    },
+    {
+      "title": "Maximum Difference Between Adjacent Elements in a Circular Array",
+      "url": "https://leetcode.com/contest/biweekly-contest-148/problems/maximum-difference-between-adjacent-elements-in-a-circular-array",
+      "rating": 538,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 148"
     },
     {
       "title": "Type of Triangle",
@@ -15994,6 +16071,13 @@
       "rating": 497,
       "difficulty": "easy",
       "contest": "Weekly Contest 230"
+    },
+    {
+      "title": "Sum of Variable Length Subarrays",
+      "url": "https://leetcode.com/contest/weekly-contest-433/problems/sum-of-variable-length-subarrays",
+      "rating": 497,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 433"
     },
     {
       "title": "Ant on the Boundary",
@@ -16311,32 +16395,32 @@
       "contest": "Weekly Contest 249"
     },
     {
-      "title": "Zigzag Grid Traversal With Skip",
-      "url": "https://leetcode.com/contest/weekly-contest-432/problems/zigzag-grid-traversal-with-skip",
+      "title": "Count Partitions with Even Sum Difference",
+      "url": "https://leetcode.com/contest/weekly-contest-434/problems/count-partitions-with-even-sum-difference",
       "rating": 0,
       "difficulty": "easy",
-      "contest": "Weekly Contest 432"
+      "contest": "Weekly Contest 434"
     },
     {
-      "title": "Maximum Amount of Money Robot Can Earn",
-      "url": "https://leetcode.com/contest/weekly-contest-432/problems/maximum-amount-of-money-robot-can-earn",
+      "title": "Count Mentions Per User",
+      "url": "https://leetcode.com/contest/weekly-contest-434/problems/count-mentions-per-user",
       "rating": 0,
       "difficulty": "medium",
-      "contest": "Weekly Contest 432"
+      "contest": "Weekly Contest 434"
     },
     {
-      "title": "Minimize the Maximum Edge Weight of Graph",
-      "url": "https://leetcode.com/contest/weekly-contest-432/problems/minimize-the-maximum-edge-weight-of-graph",
+      "title": "Maximum Frequency After Subarray Operation",
+      "url": "https://leetcode.com/contest/weekly-contest-434/problems/maximum-frequency-after-subarray-operation",
       "rating": 0,
       "difficulty": "medium",
-      "contest": "Weekly Contest 432"
+      "contest": "Weekly Contest 434"
     },
     {
-      "title": "Count Non-Decreasing Subarrays After K Operations",
-      "url": "https://leetcode.com/contest/weekly-contest-432/problems/count-non-decreasing-subarrays-after-k-operations",
+      "title": "Frequencies of Shortest Supersequences",
+      "url": "https://leetcode.com/contest/weekly-contest-434/problems/frequencies-of-shortest-supersequences",
       "rating": 0,
       "difficulty": "hard",
-      "contest": "Weekly Contest 432"
+      "contest": "Weekly Contest 434"
     }
   ]
 }
