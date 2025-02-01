@@ -50,6 +50,13 @@
       "contest": "Weekly Contest 379"
     },
     {
+      "title": "Frequencies of Shortest Supersequences",
+      "url": "https://leetcode.com/contest/weekly-contest-434/problems/frequencies-of-shortest-supersequences",
+      "rating": 3025,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 434"
+    },
+    {
       "title": "Maximum Score From Grid Operations",
       "url": "https://leetcode.com/contest/biweekly-contest-135/problems/maximum-score-from-grid-operations",
       "rating": 3011,
@@ -3177,6 +3184,13 @@
       "rating": 2095,
       "difficulty": "hard",
       "contest": "Weekly Contest 292"
+    },
+    {
+      "title": "Maximum Frequency After Subarray Operation",
+      "url": "https://leetcode.com/contest/weekly-contest-434/problems/maximum-frequency-after-subarray-operation",
+      "rating": 2093,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 434"
     },
     {
       "title": "Smallest Subsequence of Distinct Characters",
@@ -6845,6 +6859,13 @@
       "rating": 1704,
       "difficulty": "medium",
       "contest": "Weekly Contest 427"
+    },
+    {
+      "title": "Count Mentions Per User",
+      "url": "https://leetcode.com/contest/weekly-contest-434/problems/count-mentions-per-user",
+      "rating": 1703,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 434"
     },
     {
       "title": "Sliding Window Median",
@@ -16052,6 +16073,13 @@
       "contest": "Biweekly Contest 25"
     },
     {
+      "title": "Count Partitions with Even Sum Difference",
+      "url": "https://leetcode.com/contest/weekly-contest-434/problems/count-partitions-with-even-sum-difference",
+      "rating": 503,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 434"
+    },
+    {
       "title": "Truncate Sentence",
       "url": "https://leetcode.com/contest/weekly-contest-235/problems/truncate-sentence",
       "rating": 500,
@@ -16395,32 +16423,32 @@
       "contest": "Weekly Contest 249"
     },
     {
-      "title": "Count Partitions with Even Sum Difference",
-      "url": "https://leetcode.com/contest/weekly-contest-434/problems/count-partitions-with-even-sum-difference",
+      "title": "Find Valid Pair of Adjacent Digits in String",
+      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/find-valid-pair-of-adjacent-digits-in-string",
       "rating": 0,
       "difficulty": "easy",
-      "contest": "Weekly Contest 434"
+      "contest": "Biweekly Contest 149"
     },
     {
-      "title": "Count Mentions Per User",
-      "url": "https://leetcode.com/contest/weekly-contest-434/problems/count-mentions-per-user",
+      "title": "Reschedule Meetings for Maximum Free Time I",
+      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/reschedule-meetings-for-maximum-free-time-i",
       "rating": 0,
       "difficulty": "medium",
-      "contest": "Weekly Contest 434"
+      "contest": "Biweekly Contest 149"
     },
     {
-      "title": "Maximum Frequency After Subarray Operation",
-      "url": "https://leetcode.com/contest/weekly-contest-434/problems/maximum-frequency-after-subarray-operation",
+      "title": "Reschedule Meetings for Maximum Free Time II",
+      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/reschedule-meetings-for-maximum-free-time-ii",
       "rating": 0,
       "difficulty": "medium",
-      "contest": "Weekly Contest 434"
+      "contest": "Biweekly Contest 149"
     },
     {
-      "title": "Frequencies of Shortest Supersequences",
-      "url": "https://leetcode.com/contest/weekly-contest-434/problems/frequencies-of-shortest-supersequences",
+      "title": "Minimum Cost Good Caption",
+      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/minimum-cost-good-caption",
       "rating": 0,
       "difficulty": "hard",
-      "contest": "Weekly Contest 434"
+      "contest": "Biweekly Contest 149"
     }
   ]
 }
