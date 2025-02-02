@@ -246,6 +246,13 @@
       "contest": "Weekly Contest 427"
     },
     {
+      "title": "Minimum Cost Good Caption",
+      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/minimum-cost-good-caption",
+      "rating": 2742,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 149"
+    },
+    {
       "title": "Maximum Product of the Length of Two Palindromic Substrings",
       "url": "https://leetcode.com/contest/biweekly-contest-58/problems/maximum-product-of-the-length-of-two-palindromic-substrings",
       "rating": 2737,
@@ -4236,6 +4243,13 @@
       "contest": "Biweekly Contest 135"
     },
     {
+      "title": "Reschedule Meetings for Maximum Free Time II",
+      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/reschedule-meetings-for-maximum-free-time-ii",
+      "rating": 1987,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 149"
+    },
+    {
       "title": "K Empty Slots",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-51/problems/k-empty-slots",
       "rating": 1980,
@@ -6775,6 +6789,13 @@
       "rating": 1714,
       "difficulty": "medium",
       "contest": "Weekly Contest 70"
+    },
+    {
+      "title": "Reschedule Meetings for Maximum Free Time I",
+      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/reschedule-meetings-for-maximum-free-time-i",
+      "rating": 1713,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 149"
     },
     {
       "title": "Valid Triangle Number",
@@ -15807,6 +15828,13 @@
       "contest": "Weekly Contest 309"
     },
     {
+      "title": "Find Valid Pair of Adjacent Digits in String",
+      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/find-valid-pair-of-adjacent-digits-in-string",
+      "rating": 553,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 149"
+    },
+    {
       "title": "Construct the Rectangle",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-16b/problems/construct-the-rectangle",
       "rating": 551,
@@ -16423,32 +16451,32 @@
       "contest": "Weekly Contest 249"
     },
     {
-      "title": "Find Valid Pair of Adjacent Digits in String",
-      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/find-valid-pair-of-adjacent-digits-in-string",
+      "title": "Maximum Difference Between Even and Odd Frequency I",
+      "url": "https://leetcode.com/contest/weekly-contest-435/problems/maximum-difference-between-even-and-odd-frequency-i",
       "rating": 0,
       "difficulty": "easy",
-      "contest": "Biweekly Contest 149"
+      "contest": "Weekly Contest 435"
     },
     {
-      "title": "Reschedule Meetings for Maximum Free Time I",
-      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/reschedule-meetings-for-maximum-free-time-i",
+      "title": "Maximum Manhattan Distance After K Changes",
+      "url": "https://leetcode.com/contest/weekly-contest-435/problems/maximum-manhattan-distance-after-k-changes",
       "rating": 0,
       "difficulty": "medium",
-      "contest": "Biweekly Contest 149"
+      "contest": "Weekly Contest 435"
     },
     {
-      "title": "Reschedule Meetings for Maximum Free Time II",
-      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/reschedule-meetings-for-maximum-free-time-ii",
-      "rating": 0,
-      "difficulty": "medium",
-      "contest": "Biweekly Contest 149"
-    },
-    {
-      "title": "Minimum Cost Good Caption",
-      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/minimum-cost-good-caption",
+      "title": "Minimum Increments for Target Multiples in an Array",
+      "url": "https://leetcode.com/contest/weekly-contest-435/problems/minimum-increments-for-target-multiples-in-an-array",
       "rating": 0,
       "difficulty": "hard",
-      "contest": "Biweekly Contest 149"
+      "contest": "Weekly Contest 435"
+    },
+    {
+      "title": "Maximum Difference Between Even and Odd Frequency II",
+      "url": "https://leetcode.com/contest/weekly-contest-435/problems/maximum-difference-between-even-and-odd-frequency-ii",
+      "rating": 0,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 435"
     }
   ]
 }
