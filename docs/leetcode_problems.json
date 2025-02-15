@@ -211,6 +211,13 @@
       "contest": "Weekly Contest 360"
     },
     {
+      "title": "Minimum Cost Good Caption",
+      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/minimum-cost-good-caption",
+      "rating": 2780,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 149"
+    },
+    {
       "title": "Bricks Falling When Hit",
       "url": "https://leetcode.com/contest/weekly-contest-76/problems/bricks-falling-when-hit",
       "rating": 2774,
@@ -239,18 +246,18 @@
       "contest": "Weekly Contest 393"
     },
     {
+      "title": "Maximize the Minimum Game Score",
+      "url": "https://leetcode.com/contest/weekly-contest-436/problems/maximize-the-minimum-game-score",
+      "rating": 2754,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 436"
+    },
+    {
       "title": "Maximum Area Rectangle With Point Constraints II",
       "url": "https://leetcode.com/contest/weekly-contest-427/problems/maximum-area-rectangle-with-point-constraints-ii",
       "rating": 2742,
       "difficulty": "hard",
       "contest": "Weekly Contest 427"
-    },
-    {
-      "title": "Minimum Cost Good Caption",
-      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/minimum-cost-good-caption",
-      "rating": 2742,
-      "difficulty": "hard",
-      "contest": "Biweekly Contest 149"
     },
     {
       "title": "Maximum Product of the Length of Two Palindromic Substrings",
@@ -314,6 +321,13 @@
       "rating": 2710,
       "difficulty": "hard",
       "contest": "Weekly Contest 182"
+    },
+    {
+      "title": "Maximum Difference Between Even and Odd Frequency II",
+      "url": "https://leetcode.com/contest/weekly-contest-435/problems/maximum-difference-between-even-and-odd-frequency-ii",
+      "rating": 2710,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 435"
     },
     {
       "title": "Longest Common Subpath",
@@ -1492,6 +1506,13 @@
       "contest": "Weekly Contest 85"
     },
     {
+      "title": "Count Substrings Divisible By Last Digit",
+      "url": "https://leetcode.com/contest/weekly-contest-436/problems/count-substrings-divisible-by-last-digit",
+      "rating": 2378,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 436"
+    },
+    {
       "title": "Maximum Coins From K Consecutive Bags",
       "url": "https://leetcode.com/contest/weekly-contest-431/problems/maximum-coins-from-k-consecutive-bags",
       "rating": 2377,
@@ -1658,6 +1679,13 @@
       "rating": 2346,
       "difficulty": "hard",
       "contest": "Weekly Contest 297"
+    },
+    {
+      "title": "Minimum Increments for Target Multiples in an Array",
+      "url": "https://leetcode.com/contest/weekly-contest-435/problems/minimum-increments-for-target-multiples-in-an-array",
+      "rating": 2346,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 435"
     },
     {
       "title": "Maximum Strong Pair XOR II",
@@ -4019,6 +4047,13 @@
       "contest": "Weekly Contest 300"
     },
     {
+      "title": "Reschedule Meetings for Maximum Free Time II",
+      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/reschedule-meetings-for-maximum-free-time-ii",
+      "rating": 2011,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 149"
+    },
+    {
       "title": "Minimum Number of People to Teach",
       "url": "https://leetcode.com/contest/biweekly-contest-44/problems/minimum-number-of-people-to-teach",
       "rating": 2010,
@@ -4241,13 +4276,6 @@
       "rating": 1988,
       "difficulty": "medium",
       "contest": "Biweekly Contest 135"
-    },
-    {
-      "title": "Reschedule Meetings for Maximum Free Time II",
-      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/reschedule-meetings-for-maximum-free-time-ii",
-      "rating": 1987,
-      "difficulty": "medium",
-      "contest": "Biweekly Contest 149"
     },
     {
       "title": "K Empty Slots",
@@ -5888,6 +5916,13 @@
       "contest": "Biweekly Contest 13"
     },
     {
+      "title": "Maximum Manhattan Distance After K Changes",
+      "url": "https://leetcode.com/contest/weekly-contest-435/problems/maximum-manhattan-distance-after-k-changes",
+      "rating": 1802,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 435"
+    },
+    {
       "title": "Shortest Bridge",
       "url": "https://leetcode.com/contest/weekly-contest-109/problems/shortest-bridge",
       "rating": 1801,
@@ -6756,6 +6791,13 @@
       "contest": "Biweekly Contest 108"
     },
     {
+      "title": "Reschedule Meetings for Maximum Free Time I",
+      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/reschedule-meetings-for-maximum-free-time-i",
+      "rating": 1718,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 149"
+    },
+    {
       "title": "Minimum Insertions to Balance a Parentheses String",
       "url": "https://leetcode.com/contest/biweekly-contest-32/problems/minimum-insertions-to-balance-a-parentheses-string",
       "rating": 1717,
@@ -6789,13 +6831,6 @@
       "rating": 1714,
       "difficulty": "medium",
       "contest": "Weekly Contest 70"
-    },
-    {
-      "title": "Reschedule Meetings for Maximum Free Time I",
-      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/reschedule-meetings-for-maximum-free-time-i",
-      "rating": 1713,
-      "difficulty": "medium",
-      "contest": "Biweekly Contest 149"
     },
     {
       "title": "Valid Triangle Number",
@@ -7930,6 +7965,13 @@
       "rating": 1608,
       "difficulty": "medium",
       "contest": "Weekly Contest 53"
+    },
+    {
+      "title": "Assign Elements to Groups with Constraints",
+      "url": "https://leetcode.com/contest/weekly-contest-436/problems/assign-elements-to-groups-with-constraints",
+      "rating": 1608,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 436"
     },
     {
       "title": "Construct the Minimum Bitwise Array II",
@@ -14267,6 +14309,13 @@
       "contest": "Weekly Contest 122"
     },
     {
+      "title": "Sort Matrix by Diagonals",
+      "url": "https://leetcode.com/contest/weekly-contest-436/problems/sort-matrix-by-diagonals",
+      "rating": 780,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 436"
+    },
+    {
       "title": "Row With Maximum Ones",
       "url": "https://leetcode.com/contest/weekly-contest-341/problems/row-with-maximum-ones",
       "rating": 777,
@@ -15695,6 +15744,13 @@
       "contest": "Biweekly Contest 66"
     },
     {
+      "title": "Maximum Difference Between Even and Odd Frequency I",
+      "url": "https://leetcode.com/contest/weekly-contest-435/problems/maximum-difference-between-even-and-odd-frequency-i",
+      "rating": 571,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 435"
+    },
+    {
       "title": "Check if Matrix Is X-Matrix",
       "url": "https://leetcode.com/contest/weekly-contest-299/problems/check-if-matrix-is-x-matrix",
       "rating": 567,
@@ -15828,13 +15884,6 @@
       "contest": "Weekly Contest 309"
     },
     {
-      "title": "Find Valid Pair of Adjacent Digits in String",
-      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/find-valid-pair-of-adjacent-digits-in-string",
-      "rating": 553,
-      "difficulty": "easy",
-      "contest": "Biweekly Contest 149"
-    },
-    {
       "title": "Construct the Rectangle",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-16b/problems/construct-the-rectangle",
       "rating": 551,
@@ -15966,6 +16015,13 @@
       "rating": 532,
       "difficulty": "easy",
       "contest": "Biweekly Contest 19"
+    },
+    {
+      "title": "Find Valid Pair of Adjacent Digits in String",
+      "url": "https://leetcode.com/contest/biweekly-contest-149/problems/find-valid-pair-of-adjacent-digits-in-string",
+      "rating": 532,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 149"
     },
     {
       "title": "Number of Students Doing Homework at a Given Time",
@@ -16451,32 +16507,32 @@
       "contest": "Weekly Contest 249"
     },
     {
-      "title": "Maximum Difference Between Even and Odd Frequency I",
-      "url": "https://leetcode.com/contest/weekly-contest-435/problems/maximum-difference-between-even-and-odd-frequency-i",
+      "title": "Sum of Good Numbers",
+      "url": "https://leetcode.com/contest/biweekly-contest-150/problems/sum-of-good-numbers",
       "rating": 0,
       "difficulty": "easy",
-      "contest": "Weekly Contest 435"
+      "contest": "Biweekly Contest 150"
     },
     {
-      "title": "Maximum Manhattan Distance After K Changes",
-      "url": "https://leetcode.com/contest/weekly-contest-435/problems/maximum-manhattan-distance-after-k-changes",
+      "title": "Separate Squares I",
+      "url": "https://leetcode.com/contest/biweekly-contest-150/problems/separate-squares-i",
       "rating": 0,
       "difficulty": "medium",
-      "contest": "Weekly Contest 435"
+      "contest": "Biweekly Contest 150"
     },
     {
-      "title": "Minimum Increments for Target Multiples in an Array",
-      "url": "https://leetcode.com/contest/weekly-contest-435/problems/minimum-increments-for-target-multiples-in-an-array",
+      "title": "Separate Squares II",
+      "url": "https://leetcode.com/contest/biweekly-contest-150/problems/separate-squares-ii",
       "rating": 0,
       "difficulty": "hard",
-      "contest": "Weekly Contest 435"
+      "contest": "Biweekly Contest 150"
     },
     {
-      "title": "Maximum Difference Between Even and Odd Frequency II",
-      "url": "https://leetcode.com/contest/weekly-contest-435/problems/maximum-difference-between-even-and-odd-frequency-ii",
+      "title": "Shortest Matching Substring",
+      "url": "https://leetcode.com/contest/biweekly-contest-150/problems/shortest-matching-substring",
       "rating": 0,
       "difficulty": "hard",
-      "contest": "Weekly Contest 435"
+      "contest": "Biweekly Contest 150"
     }
   ]
 }
