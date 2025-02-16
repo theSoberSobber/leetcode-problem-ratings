@@ -827,6 +827,13 @@
       "contest": "Biweekly Contest 136"
     },
     {
+      "title": "Length of Longest V-Shaped Diagonal Segment",
+      "url": "https://leetcode.com/contest/weekly-contest-437/problems/length-of-longest-v-shaped-diagonal-segment",
+      "rating": 2522,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 437"
+    },
+    {
       "title": "Final Array State After K Multiplication Operations II",
       "url": "https://leetcode.com/contest/weekly-contest-412/problems/final-array-state-after-k-multiplication-operations-ii",
       "rating": 2521,
@@ -951,6 +958,13 @@
       "rating": 2487,
       "difficulty": "hard",
       "contest": "Weekly Contest 38"
+    },
+    {
+      "title": "Separate Squares II",
+      "url": "https://leetcode.com/contest/biweekly-contest-150/problems/separate-squares-ii",
+      "rating": 2485,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 150"
     },
     {
       "title": "Find the Median of the Uniqueness Array",
@@ -2339,6 +2353,13 @@
       "contest": "Weekly Contest 354"
     },
     {
+      "title": "Shortest Matching Substring",
+      "url": "https://leetcode.com/contest/biweekly-contest-150/problems/shortest-matching-substring",
+      "rating": 2231,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 150"
+    },
+    {
       "title": "Check if Point Is Reachable",
       "url": "https://leetcode.com/contest/biweekly-contest-96/problems/check-if-point-is-reachable",
       "rating": 2230,
@@ -2456,6 +2477,13 @@
       "rating": 2208,
       "difficulty": "hard",
       "contest": "Weekly Contest 139"
+    },
+    {
+      "title": "Select K Disjoint Special Substrings",
+      "url": "https://leetcode.com/contest/weekly-contest-437/problems/select-k-disjoint-special-substrings",
+      "rating": 2206,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 437"
     },
     {
       "title": "Prefix and Suffix Search",
@@ -6742,6 +6770,13 @@
       "contest": "Weekly Contest 311"
     },
     {
+      "title": "Separate Squares I",
+      "url": "https://leetcode.com/contest/biweekly-contest-150/problems/separate-squares-i",
+      "rating": 1723,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 150"
+    },
+    {
       "title": "Minimum Area Rectangle",
       "url": "https://leetcode.com/contest/weekly-contest-110/problems/minimum-area-rectangle",
       "rating": 1722,
@@ -6901,6 +6936,13 @@
       "rating": 1706,
       "difficulty": "medium",
       "contest": "Biweekly Contest 113"
+    },
+    {
+      "title": "Eat Pizzas!",
+      "url": "https://leetcode.com/contest/weekly-contest-437/problems/eat-pizzas",
+      "rating": 1706,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 437"
     },
     {
       "title": "Destroy Sequential Targets",
@@ -15338,6 +15380,13 @@
       "contest": "Weekly Contest 178"
     },
     {
+      "title": "Find Special Substring of Length K",
+      "url": "https://leetcode.com/contest/weekly-contest-437/problems/find-special-substring-of-length-k",
+      "rating": 626,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 437"
+    },
+    {
       "title": "Long Pressed Name",
       "url": "https://leetcode.com/contest/weekly-contest-107/problems/long-pressed-name",
       "rating": 625,
@@ -16325,6 +16374,13 @@
       "contest": "Biweekly Contest 61"
     },
     {
+      "title": "Sum of Good Numbers",
+      "url": "https://leetcode.com/contest/biweekly-contest-150/problems/sum-of-good-numbers",
+      "rating": 466,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 150"
+    },
+    {
       "title": "Maximum Product of Two Elements in an Array",
       "url": "https://leetcode.com/contest/weekly-contest-191/problems/maximum-product-of-two-elements-in-an-array",
       "rating": 462,
@@ -16505,34 +16561,6 @@
       "rating": 337,
       "difficulty": "easy",
       "contest": "Weekly Contest 249"
-    },
-    {
-      "title": "Sum of Good Numbers",
-      "url": "https://leetcode.com/contest/biweekly-contest-150/problems/sum-of-good-numbers",
-      "rating": 0,
-      "difficulty": "easy",
-      "contest": "Biweekly Contest 150"
-    },
-    {
-      "title": "Separate Squares I",
-      "url": "https://leetcode.com/contest/biweekly-contest-150/problems/separate-squares-i",
-      "rating": 0,
-      "difficulty": "medium",
-      "contest": "Biweekly Contest 150"
-    },
-    {
-      "title": "Separate Squares II",
-      "url": "https://leetcode.com/contest/biweekly-contest-150/problems/separate-squares-ii",
-      "rating": 0,
-      "difficulty": "hard",
-      "contest": "Biweekly Contest 150"
-    },
-    {
-      "title": "Shortest Matching Substring",
-      "url": "https://leetcode.com/contest/biweekly-contest-150/problems/shortest-matching-substring",
-      "rating": 0,
-      "difficulty": "hard",
-      "contest": "Biweekly Contest 150"
     }
   ]
 }
