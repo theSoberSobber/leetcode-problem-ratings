@@ -204,6 +204,13 @@
       "contest": "Weekly Contest 378"
     },
     {
+      "title": "Maximize the Distance Between Points on a Square",
+      "url": "https://leetcode.com/contest/weekly-contest-438/problems/maximize-the-distance-between-points-on-a-square",
+      "rating": 2790,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 438"
+    },
+    {
       "title": "Maximize Value of Function in a Ball Passing Game",
       "url": "https://leetcode.com/contest/weekly-contest-360/problems/maximize-value-of-function-in-a-ball-passing-game",
       "rating": 2782,
@@ -615,13 +622,6 @@
       "rating": 2605,
       "difficulty": "hard",
       "contest": "Weekly Contest 340"
-    },
-    {
-      "title": "Maximize the Distance Between Points on a Square",
-      "url": "https://leetcode.com/contest/weekly-contest-438/problems/maximize-the-distance-between-points-on-a-square",
-      "rating": 2604,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 438"
     },
     {
       "title": "Maximum Total Beauty of the Gardens",
@@ -1945,6 +1945,13 @@
       "rating": 2299,
       "difficulty": "hard",
       "contest": "Weekly Contest 363"
+    },
+    {
+      "title": "Check If Digits Are Equal in String After Operations II",
+      "url": "https://leetcode.com/contest/weekly-contest-438/problems/check-if-digits-are-equal-in-string-after-operations-ii",
+      "rating": 2298,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 438"
     },
     {
       "title": "Maximum Running Time of N Computers",
@@ -5788,13 +5795,6 @@
       "rating": 1824,
       "difficulty": "medium",
       "contest": "Weekly Contest 401"
-    },
-    {
-      "title": "Check If Digits Are Equal in String After Operations II",
-      "url": "https://leetcode.com/contest/weekly-contest-438/problems/check-if-digits-are-equal-in-string-after-operations-ii",
-      "rating": 1824,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 438"
     },
     {
       "title": "Maximum Sum Obtained of Any Permutation",
@@ -10627,6 +10627,13 @@
       "contest": "Weekly Contest 323"
     },
     {
+      "title": "Maximum Sum With at Most K Elements",
+      "url": "https://leetcode.com/contest/weekly-contest-438/problems/maximum-sum-with-at-most-k-elements",
+      "rating": 1334,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 438"
+    },
+    {
       "title": "My Calendar I",
       "url": "https://leetcode.com/contest/weekly-contest-59/problems/my-calendar-i",
       "rating": 1331,
@@ -11430,13 +11437,6 @@
       "rating": 1238,
       "difficulty": "medium",
       "contest": "Weekly Contest 376"
-    },
-    {
-      "title": "Maximum Sum With at Most K Elements",
-      "url": "https://leetcode.com/contest/weekly-contest-438/problems/maximum-sum-with-at-most-k-elements",
-      "rating": 1238,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 438"
     },
     {
       "title": "Count Nodes Equal to Average of Subtree",
@@ -14309,13 +14309,6 @@
       "contest": "Weekly Contest 327"
     },
     {
-      "title": "Check If Digits Are Equal in String After Operations I",
-      "url": "https://leetcode.com/contest/weekly-contest-438/problems/check-if-digits-are-equal-in-string-after-operations-i",
-      "rating": 787,
-      "difficulty": "easy",
-      "contest": "Weekly Contest 438"
-    },
-    {
       "title": "Maximum Value of a String in an Array",
       "url": "https://leetcode.com/contest/biweekly-contest-93/problems/maximum-value-of-a-string-in-an-array",
       "rating": 786,
@@ -15238,6 +15231,13 @@
       "rating": 656,
       "difficulty": "easy",
       "contest": "Weekly Contest 405"
+    },
+    {
+      "title": "Check If Digits Are Equal in String After Operations I",
+      "url": "https://leetcode.com/contest/weekly-contest-438/problems/check-if-digits-are-equal-in-string-after-operations-i",
+      "rating": 656,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 438"
     },
     {
       "title": "Convert Binary Number in a Linked List to Integer",
@@ -16589,6 +16589,34 @@
       "rating": 337,
       "difficulty": "easy",
       "contest": "Weekly Contest 249"
+    },
+    {
+      "title": "Transform Array by Parity",
+      "url": "https://leetcode.com/contest/biweekly-contest-151/problems/transform-array-by-parity",
+      "rating": 0,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 151"
+    },
+    {
+      "title": "Find the Number of Copy Arrays",
+      "url": "https://leetcode.com/contest/biweekly-contest-151/problems/find-the-number-of-copy-arrays",
+      "rating": 0,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 151"
+    },
+    {
+      "title": "Find Minimum Cost to Remove Array Elements",
+      "url": "https://leetcode.com/contest/biweekly-contest-151/problems/find-minimum-cost-to-remove-array-elements",
+      "rating": 0,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 151"
+    },
+    {
+      "title": "Permutations IV",
+      "url": "https://leetcode.com/contest/biweekly-contest-151/problems/permutations-iv",
+      "rating": 0,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 151"
     }
   ]
 }
