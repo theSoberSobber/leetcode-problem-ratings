@@ -1184,6 +1184,13 @@
       "contest": "Weekly Contest 238"
     },
     {
+      "title": "Permutations IV",
+      "url": "https://leetcode.com/contest/biweekly-contest-151/problems/permutations-iv",
+      "rating": 2441,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 151"
+    },
+    {
       "title": "Stamping the Grid",
       "url": "https://leetcode.com/contest/biweekly-contest-69/problems/stamping-the-grid",
       "rating": 2440,
@@ -3093,6 +3100,13 @@
       "rating": 2110,
       "difficulty": "hard",
       "contest": "Weekly Contest 309"
+    },
+    {
+      "title": "Find Minimum Cost to Remove Array Elements",
+      "url": "https://leetcode.com/contest/biweekly-contest-151/problems/find-minimum-cost-to-remove-array-elements",
+      "rating": 2110,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 151"
     },
     {
       "title": "Critical Connections in a Network",
@@ -8903,6 +8917,13 @@
       "rating": 1515,
       "difficulty": "medium",
       "contest": "Weekly Contest 30"
+    },
+    {
+      "title": "Find the Number of Copy Arrays",
+      "url": "https://leetcode.com/contest/biweekly-contest-151/problems/find-the-number-of-copy-arrays",
+      "rating": 1515,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 151"
     },
     {
       "title": "Minimum Falling Path Sum",
@@ -16143,6 +16164,13 @@
       "contest": "Biweekly Contest 60"
     },
     {
+      "title": "Transform Array by Parity",
+      "url": "https://leetcode.com/contest/biweekly-contest-151/problems/transform-array-by-parity",
+      "rating": 522,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 151"
+    },
+    {
       "title": "Three Consecutive Odds",
       "url": "https://leetcode.com/contest/weekly-contest-202/problems/three-consecutive-odds",
       "rating": 520,
@@ -16591,32 +16619,32 @@
       "contest": "Weekly Contest 249"
     },
     {
-      "title": "Transform Array by Parity",
-      "url": "https://leetcode.com/contest/biweekly-contest-151/problems/transform-array-by-parity",
+      "title": "Find the Largest Almost Missing Integer",
+      "url": "https://leetcode.com/contest/weekly-contest-439/problems/find-the-largest-almost-missing-integer",
       "rating": 0,
       "difficulty": "easy",
-      "contest": "Biweekly Contest 151"
+      "contest": "Weekly Contest 439"
     },
     {
-      "title": "Find the Number of Copy Arrays",
-      "url": "https://leetcode.com/contest/biweekly-contest-151/problems/find-the-number-of-copy-arrays",
+      "title": "Longest Palindromic Subsequence After at Most K Operations",
+      "url": "https://leetcode.com/contest/weekly-contest-439/problems/longest-palindromic-subsequence-after-at-most-k-operations",
       "rating": 0,
       "difficulty": "medium",
-      "contest": "Biweekly Contest 151"
+      "contest": "Weekly Contest 439"
     },
     {
-      "title": "Find Minimum Cost to Remove Array Elements",
-      "url": "https://leetcode.com/contest/biweekly-contest-151/problems/find-minimum-cost-to-remove-array-elements",
+      "title": "Sum of K Subarrays With Length at Least M",
+      "url": "https://leetcode.com/contest/weekly-contest-439/problems/sum-of-k-subarrays-with-length-at-least-m",
       "rating": 0,
       "difficulty": "medium",
-      "contest": "Biweekly Contest 151"
+      "contest": "Weekly Contest 439"
     },
     {
-      "title": "Permutations IV",
-      "url": "https://leetcode.com/contest/biweekly-contest-151/problems/permutations-iv",
+      "title": "Lexicographically Smallest Generated String",
+      "url": "https://leetcode.com/contest/weekly-contest-439/problems/lexicographically-smallest-generated-string",
       "rating": 0,
       "difficulty": "hard",
-      "contest": "Biweekly Contest 151"
+      "contest": "Weekly Contest 439"
     }
   ]
 }
