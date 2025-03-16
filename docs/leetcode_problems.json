@@ -176,6 +176,13 @@
       "contest": "Biweekly Contest 59"
     },
     {
+      "title": "Longest Special Path II",
+      "url": "https://leetcode.com/contest/biweekly-contest-152/problems/longest-special-path-ii",
+      "rating": 2821,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 152"
+    },
+    {
       "title": "Subsequences with a Unique Middle Mode I",
       "url": "https://leetcode.com/contest/biweekly-contest-146/problems/subsequences-with-a-unique-middle-mode-i",
       "rating": 2818,
@@ -909,6 +916,13 @@
       "rating": 2507,
       "difficulty": "hard",
       "contest": "Biweekly Contest 60"
+    },
+    {
+      "title": "Count Beautiful Numbers",
+      "url": "https://leetcode.com/contest/weekly-contest-441/problems/count-beautiful-numbers",
+      "rating": 2502,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 441"
     },
     {
       "title": "Count Pairs Of Nodes",
@@ -2318,6 +2332,13 @@
       "contest": "Biweekly Contest 32"
     },
     {
+      "title": "Longest Common Prefix of K Strings After Removal",
+      "url": "https://leetcode.com/contest/biweekly-contest-152/problems/longest-common-prefix-of-k-strings-after-removal",
+      "rating": 2244,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 152"
+    },
+    {
       "title": "Count Integers in Intervals",
       "url": "https://leetcode.com/contest/weekly-contest-293/problems/count-integers-in-intervals",
       "rating": 2243,
@@ -3163,6 +3184,13 @@
       "rating": 2109,
       "difficulty": "hard",
       "contest": "Weekly Contest 398"
+    },
+    {
+      "title": "Zero Array Transformation IV",
+      "url": "https://leetcode.com/contest/weekly-contest-441/problems/zero-array-transformation-iv",
+      "rating": 2108,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 441"
     },
     {
       "title": "Find Edges in Shortest Paths",
@@ -8261,6 +8289,13 @@
       "contest": "Biweekly Contest 139"
     },
     {
+      "title": "Closest Equal Element Queries",
+      "url": "https://leetcode.com/contest/weekly-contest-441/problems/closest-equal-element-queries",
+      "rating": 1592,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 441"
+    },
+    {
       "title": "Find Good Days to Rob the Bank",
       "url": "https://leetcode.com/contest/biweekly-contest-67/problems/find-good-days-to-rob-the-bank",
       "rating": 1591,
@@ -10058,6 +10093,13 @@
       "rating": 1402,
       "difficulty": "medium",
       "contest": "Weekly Contest 381"
+    },
+    {
+      "title": "Design Spreadsheet",
+      "url": "https://leetcode.com/contest/biweekly-contest-152/problems/design-spreadsheet",
+      "rating": 1402,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 152"
     },
     {
       "title": "Decode String",
@@ -13651,6 +13693,13 @@
       "contest": "Weekly Contest 420"
     },
     {
+      "title": "Maximum Unique Subarray Sum After Deletion",
+      "url": "https://leetcode.com/contest/weekly-contest-441/problems/maximum-unique-subarray-sum-after-deletion",
+      "rating": 910,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 441"
+    },
+    {
       "title": "Two Sum IV - Input is a BST",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-44/problems/two-sum-iv-input-is-a-bst",
       "rating": 909,
@@ -13824,6 +13873,13 @@
       "rating": 882,
       "difficulty": "medium",
       "contest": "Biweekly Contest 29"
+    },
+    {
+      "title": "Unique 3-Digit Even Numbers",
+      "url": "https://leetcode.com/contest/biweekly-contest-152/problems/unique-3-digit-even-numbers",
+      "rating": 882,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 152"
     },
     {
       "title": "Replace All ?'s to Avoid Consecutive Repeating Characters",
@@ -16673,34 +16729,6 @@
       "rating": 337,
       "difficulty": "easy",
       "contest": "Weekly Contest 249"
-    },
-    {
-      "title": "Unique 3-Digit Even Numbers",
-      "url": "https://leetcode.com/contest/biweekly-contest-152/problems/unique-3-digit-even-numbers",
-      "rating": 0,
-      "difficulty": "easy",
-      "contest": "Biweekly Contest 152"
-    },
-    {
-      "title": "Design Spreadsheet",
-      "url": "https://leetcode.com/contest/biweekly-contest-152/problems/design-spreadsheet",
-      "rating": 0,
-      "difficulty": "medium",
-      "contest": "Biweekly Contest 152"
-    },
-    {
-      "title": "Longest Common Prefix of K Strings After Removal",
-      "url": "https://leetcode.com/contest/biweekly-contest-152/problems/longest-common-prefix-of-k-strings-after-removal",
-      "rating": 0,
-      "difficulty": "hard",
-      "contest": "Biweekly Contest 152"
-    },
-    {
-      "title": "Longest Special Path II",
-      "url": "https://leetcode.com/contest/biweekly-contest-152/problems/longest-special-path-ii",
-      "rating": 0,
-      "difficulty": "hard",
-      "contest": "Biweekly Contest 152"
     }
   ]
 }
