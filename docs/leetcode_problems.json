@@ -99,6 +99,13 @@
       "contest": "Weekly Contest 428"
     },
     {
+      "title": "Longest Special Path II",
+      "url": "https://leetcode.com/contest/biweekly-contest-152/problems/longest-special-path-ii",
+      "rating": 2929,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 152"
+    },
+    {
       "title": "Construct String with Minimum Cost",
       "url": "https://leetcode.com/contest/weekly-contest-405/problems/construct-string-with-minimum-cost",
       "rating": 2923,
@@ -174,13 +181,6 @@
       "rating": 2828,
       "difficulty": "hard",
       "contest": "Biweekly Contest 59"
-    },
-    {
-      "title": "Longest Special Path II",
-      "url": "https://leetcode.com/contest/biweekly-contest-152/problems/longest-special-path-ii",
-      "rating": 2821,
-      "difficulty": "hard",
-      "contest": "Biweekly Contest 152"
     },
     {
       "title": "Subsequences with a Unique Middle Mode I",
@@ -876,6 +876,13 @@
       "contest": "Weekly Contest 412"
     },
     {
+      "title": "Count Beautiful Numbers",
+      "url": "https://leetcode.com/contest/weekly-contest-441/problems/count-beautiful-numbers",
+      "rating": 2516,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 441"
+    },
+    {
       "title": "Reverse Subarray To Maximize Array Value",
       "url": "https://leetcode.com/contest/biweekly-contest-18/problems/reverse-subarray-to-maximize-array-value",
       "rating": 2515,
@@ -916,13 +923,6 @@
       "rating": 2507,
       "difficulty": "hard",
       "contest": "Biweekly Contest 60"
-    },
-    {
-      "title": "Count Beautiful Numbers",
-      "url": "https://leetcode.com/contest/weekly-contest-441/problems/count-beautiful-numbers",
-      "rating": 2502,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 441"
     },
     {
       "title": "Count Pairs Of Nodes",
@@ -1476,6 +1476,13 @@
       "rating": 2398,
       "difficulty": "hard",
       "contest": "Biweekly Contest 82"
+    },
+    {
+      "title": "Minimum Operations to Make Array Elements Zero",
+      "url": "https://leetcode.com/contest/weekly-contest-442/problems/minimum-operations-to-make-array-elements-zero",
+      "rating": 2395,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 442"
     },
     {
       "title": "Disconnect Path in a Binary Matrix by at Most One Flip",
@@ -2143,6 +2150,13 @@
       "contest": "Weekly Contest 57"
     },
     {
+      "title": "Longest Common Prefix of K Strings After Removal",
+      "url": "https://leetcode.com/contest/biweekly-contest-152/problems/longest-common-prefix-of-k-strings-after-removal",
+      "rating": 2269,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 152"
+    },
+    {
       "title": "Number of Valid Words for Each Puzzle",
       "url": "https://leetcode.com/contest/weekly-contest-152/problems/number-of-valid-words-for-each-puzzle",
       "rating": 2268,
@@ -2330,13 +2344,6 @@
       "rating": 2244,
       "difficulty": "hard",
       "contest": "Biweekly Contest 32"
-    },
-    {
-      "title": "Longest Common Prefix of K Strings After Removal",
-      "url": "https://leetcode.com/contest/biweekly-contest-152/problems/longest-common-prefix-of-k-strings-after-removal",
-      "rating": 2244,
-      "difficulty": "hard",
-      "contest": "Biweekly Contest 152"
     },
     {
       "title": "Count Integers in Intervals",
@@ -2533,6 +2540,13 @@
       "rating": 2212,
       "difficulty": "hard",
       "contest": "Weekly Contest 229"
+    },
+    {
+      "title": "Find the Minimum Amount of Time to Brew Potions",
+      "url": "https://leetcode.com/contest/weekly-contest-442/problems/find-the-minimum-amount-of-time-to-brew-potions",
+      "rating": 2210,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 442"
     },
     {
       "title": "Maximum Number of Points From Grid Queries",
@@ -3184,13 +3198,6 @@
       "rating": 2109,
       "difficulty": "hard",
       "contest": "Weekly Contest 398"
-    },
-    {
-      "title": "Zero Array Transformation IV",
-      "url": "https://leetcode.com/contest/weekly-contest-441/problems/zero-array-transformation-iv",
-      "rating": 2108,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 441"
     },
     {
       "title": "Find Edges in Shortest Paths",
@@ -3905,6 +3912,13 @@
       "rating": 2039,
       "difficulty": "medium",
       "contest": "Weekly Contest 211"
+    },
+    {
+      "title": "Zero Array Transformation IV",
+      "url": "https://leetcode.com/contest/weekly-contest-441/problems/zero-array-transformation-iv",
+      "rating": 2038,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 441"
     },
     {
       "title": "Most Stones Removed with Same Row or Column",
@@ -8289,11 +8303,11 @@
       "contest": "Biweekly Contest 139"
     },
     {
-      "title": "Closest Equal Element Queries",
-      "url": "https://leetcode.com/contest/weekly-contest-441/problems/closest-equal-element-queries",
+      "title": "Properties Graph",
+      "url": "https://leetcode.com/contest/weekly-contest-442/problems/properties-graph",
       "rating": 1592,
       "difficulty": "medium",
-      "contest": "Weekly Contest 441"
+      "contest": "Weekly Contest 442"
     },
     {
       "title": "Find Good Days to Rob the Bank",
@@ -8378,6 +8392,13 @@
       "rating": 1585,
       "difficulty": "medium",
       "contest": "Weekly Contest 196"
+    },
+    {
+      "title": "Closest Equal Element Queries",
+      "url": "https://leetcode.com/contest/weekly-contest-441/problems/closest-equal-element-queries",
+      "rating": 1585,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 441"
     },
     {
       "title": "Construct Smallest Number From DI String",
@@ -10095,13 +10116,6 @@
       "contest": "Weekly Contest 381"
     },
     {
-      "title": "Design Spreadsheet",
-      "url": "https://leetcode.com/contest/biweekly-contest-152/problems/design-spreadsheet",
-      "rating": 1402,
-      "difficulty": "medium",
-      "contest": "Biweekly Contest 152"
-    },
-    {
       "title": "Decode String",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-3/problems/decode-string",
       "rating": 1400,
@@ -10198,6 +10212,13 @@
       "rating": 1395,
       "difficulty": "medium",
       "contest": "Weekly Contest 390"
+    },
+    {
+      "title": "Design Spreadsheet",
+      "url": "https://leetcode.com/contest/biweekly-contest-152/problems/design-spreadsheet",
+      "rating": 1395,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 152"
     },
     {
       "title": "Minimum Penalty for a Shop",
@@ -12846,6 +12867,13 @@
       "contest": "Weekly Contest 287"
     },
     {
+      "title": "Maximum Unique Subarray Sum After Deletion",
+      "url": "https://leetcode.com/contest/weekly-contest-441/problems/maximum-unique-subarray-sum-after-deletion",
+      "rating": 1048,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 441"
+    },
+    {
       "title": "Count Total Number of Colored Cells",
       "url": "https://leetcode.com/contest/biweekly-contest-99/problems/count-total-number-of-colored-cells",
       "rating": 1047,
@@ -13693,13 +13721,6 @@
       "contest": "Weekly Contest 420"
     },
     {
-      "title": "Maximum Unique Subarray Sum After Deletion",
-      "url": "https://leetcode.com/contest/weekly-contest-441/problems/maximum-unique-subarray-sum-after-deletion",
-      "rating": 910,
-      "difficulty": "easy",
-      "contest": "Weekly Contest 441"
-    },
-    {
       "title": "Two Sum IV - Input is a BST",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-44/problems/two-sum-iv-input-is-a-bst",
       "rating": 909,
@@ -13754,6 +13775,13 @@
       "rating": 902,
       "difficulty": "easy",
       "contest": "Weekly Contest 348"
+    },
+    {
+      "title": "Unique 3-Digit Even Numbers",
+      "url": "https://leetcode.com/contest/biweekly-contest-152/problems/unique-3-digit-even-numbers",
+      "rating": 898,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 152"
     },
     {
       "title": "Array Transformation",
@@ -13873,13 +13901,6 @@
       "rating": 882,
       "difficulty": "medium",
       "contest": "Biweekly Contest 29"
-    },
-    {
-      "title": "Unique 3-Digit Even Numbers",
-      "url": "https://leetcode.com/contest/biweekly-contest-152/problems/unique-3-digit-even-numbers",
-      "rating": 882,
-      "difficulty": "easy",
-      "contest": "Biweekly Contest 152"
     },
     {
       "title": "Replace All ?'s to Avoid Consecutive Repeating Characters",
@@ -16281,6 +16302,13 @@
       "rating": 525,
       "difficulty": "easy",
       "contest": "Biweekly Contest 60"
+    },
+    {
+      "title": "Maximum Containers on a Ship",
+      "url": "https://leetcode.com/contest/weekly-contest-442/problems/maximum-containers-on-a-ship",
+      "rating": 521,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 442"
     },
     {
       "title": "Three Consecutive Odds",
