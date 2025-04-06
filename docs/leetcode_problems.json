@@ -57,6 +57,13 @@
       "contest": "Weekly Contest 434"
     },
     {
+      "title": "Maximize Active Section with Trade II",
+      "url": "https://leetcode.com/contest/biweekly-contest-153/problems/maximize-active-section-with-trade-ii",
+      "rating": 3025,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 153"
+    },
+    {
       "title": "Maximum Score From Grid Operations",
       "url": "https://leetcode.com/contest/biweekly-contest-135/problems/maximum-score-from-grid-operations",
       "rating": 3011,
@@ -757,6 +764,13 @@
       "contest": "Weekly Contest 249"
     },
     {
+      "title": "Minimum Cost to Divide Array Into Subarrays",
+      "url": "https://leetcode.com/contest/biweekly-contest-153/problems/minimum-cost-to-divide-array-into-subarrays",
+      "rating": 2563,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 153"
+    },
+    {
       "title": "Minimum Cost to Change the Final Value of Expression",
       "url": "https://leetcode.com/contest/biweekly-contest-54/problems/minimum-cost-to-change-the-final-value-of-expression",
       "rating": 2562,
@@ -804,6 +818,13 @@
       "rating": 2547,
       "difficulty": "hard",
       "contest": "Weekly Contest 250"
+    },
+    {
+      "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+      "url": "https://leetcode.com/contest/weekly-contest-443/problems/minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "rating": 2544,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 443"
     },
     {
       "title": "Block Placement Queries",
@@ -1471,18 +1492,18 @@
       "contest": "Weekly Contest 334"
     },
     {
+      "title": "Longest Palindrome After Substring Concatenation II",
+      "url": "https://leetcode.com/contest/weekly-contest-443/problems/longest-palindrome-after-substring-concatenation-ii",
+      "rating": 2399,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 443"
+    },
+    {
       "title": "Subarray With Elements Greater Than Varying Threshold",
       "url": "https://leetcode.com/contest/biweekly-contest-82/problems/subarray-with-elements-greater-than-varying-threshold",
       "rating": 2398,
       "difficulty": "hard",
       "contest": "Biweekly Contest 82"
-    },
-    {
-      "title": "Minimum Operations to Make Array Elements Zero",
-      "url": "https://leetcode.com/contest/weekly-contest-442/problems/minimum-operations-to-make-array-elements-zero",
-      "rating": 2395,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 442"
     },
     {
       "title": "Disconnect Path in a Binary Matrix by at Most One Flip",
@@ -2535,18 +2556,18 @@
       "contest": "Biweekly Contest 12"
     },
     {
+      "title": "Minimum Operations to Make Array Elements Zero",
+      "url": "https://leetcode.com/contest/weekly-contest-442/problems/minimum-operations-to-make-array-elements-zero",
+      "rating": 2216,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 442"
+    },
+    {
       "title": "Maximize Palindrome Length From Subsequences",
       "url": "https://leetcode.com/contest/weekly-contest-229/problems/maximize-palindrome-length-from-subsequences",
       "rating": 2212,
       "difficulty": "hard",
       "contest": "Weekly Contest 229"
-    },
-    {
-      "title": "Find the Minimum Amount of Time to Brew Potions",
-      "url": "https://leetcode.com/contest/weekly-contest-442/problems/find-the-minimum-amount-of-time-to-brew-potions",
-      "rating": 2210,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 442"
     },
     {
       "title": "Maximum Number of Points From Grid Queries",
@@ -3961,6 +3982,13 @@
       "rating": 2033,
       "difficulty": "medium",
       "contest": "Weekly Contest 373"
+    },
+    {
+      "title": "Find the Minimum Amount of Time to Brew Potions",
+      "url": "https://leetcode.com/contest/weekly-contest-442/problems/find-the-minimum-amount-of-time-to-brew-potions",
+      "rating": 2033,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 442"
     },
     {
       "title": "Digit Count in Range",
@@ -6854,6 +6882,13 @@
       "contest": "Biweekly Contest 114"
     },
     {
+      "title": "Maximize Active Section with Trade I",
+      "url": "https://leetcode.com/contest/biweekly-contest-153/problems/maximize-active-section-with-trade-i",
+      "rating": 1726,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 153"
+    },
+    {
       "title": "Decode the Slanted Ciphertext",
       "url": "https://leetcode.com/contest/weekly-contest-267/problems/decode-the-slanted-ciphertext",
       "rating": 1724,
@@ -8303,13 +8338,6 @@
       "contest": "Biweekly Contest 139"
     },
     {
-      "title": "Properties Graph",
-      "url": "https://leetcode.com/contest/weekly-contest-442/problems/properties-graph",
-      "rating": 1592,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 442"
-    },
-    {
       "title": "Find Good Days to Rob the Bank",
       "url": "https://leetcode.com/contest/biweekly-contest-67/problems/find-good-days-to-rob-the-bank",
       "rating": 1591,
@@ -9185,6 +9213,13 @@
       "contest": "Biweekly Contest 36"
     },
     {
+      "title": "Properties Graph",
+      "url": "https://leetcode.com/contest/weekly-contest-442/problems/properties-graph",
+      "rating": 1500,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 442"
+    },
+    {
       "title": "Longest Univalue Path",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-52/problems/longest-univalue-path",
       "rating": 1499,
@@ -9645,6 +9680,13 @@
       "rating": 1449,
       "difficulty": "medium",
       "contest": "Biweekly Contest 52"
+    },
+    {
+      "title": "Longest Palindrome After Substring Concatenation I",
+      "url": "https://leetcode.com/contest/weekly-contest-443/problems/longest-palindrome-after-substring-concatenation-i",
+      "rating": 1449,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 443"
     },
     {
       "title": "Find the Number of Distinct Colors Among the Balls",
@@ -14715,6 +14757,13 @@
       "contest": "Weekly Contest 296"
     },
     {
+      "title": "Minimum Cost to Reach Every Position",
+      "url": "https://leetcode.com/contest/weekly-contest-443/problems/minimum-cost-to-reach-every-position",
+      "rating": 750,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 443"
+    },
+    {
       "title": "Minimum Number of Moves to Seat Everyone",
       "url": "https://leetcode.com/contest/biweekly-contest-63/problems/minimum-number-of-moves-to-seat-everyone",
       "rating": 748,
@@ -16306,7 +16355,7 @@
     {
       "title": "Maximum Containers on a Ship",
       "url": "https://leetcode.com/contest/weekly-contest-442/problems/maximum-containers-on-a-ship",
-      "rating": 521,
+      "rating": 524,
       "difficulty": "easy",
       "contest": "Weekly Contest 442"
     },
@@ -16710,6 +16759,13 @@
       "contest": "Weekly Contest 233"
     },
     {
+      "title": "Reverse Degree of a String",
+      "url": "https://leetcode.com/contest/biweekly-contest-153/problems/reverse-degree-of-a-string",
+      "rating": 379,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 153"
+    },
+    {
       "title": "Count Operations to Obtain Zero",
       "url": "https://leetcode.com/contest/weekly-contest-280/problems/count-operations-to-obtain-zero",
       "rating": 377,
@@ -16757,6 +16813,34 @@
       "rating": 337,
       "difficulty": "easy",
       "contest": "Weekly Contest 249"
+    },
+    {
+      "title": "Minimum Pair Removal to Sort Array I",
+      "url": "https://leetcode.com/contest/weekly-contest-444/problems/minimum-pair-removal-to-sort-array-i",
+      "rating": 0,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 444"
+    },
+    {
+      "title": "Implement Router",
+      "url": "https://leetcode.com/contest/weekly-contest-444/problems/implement-router",
+      "rating": 0,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 444"
+    },
+    {
+      "title": "Maximum Product of Subsequences With an Alternating Sum Equal to K",
+      "url": "https://leetcode.com/contest/weekly-contest-444/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k",
+      "rating": 0,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 444"
+    },
+    {
+      "title": "Minimum Pair Removal to Sort Array II",
+      "url": "https://leetcode.com/contest/weekly-contest-444/problems/minimum-pair-removal-to-sort-array-ii",
+      "rating": 0,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 444"
     }
   ]
 }
