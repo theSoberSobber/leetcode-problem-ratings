@@ -393,6 +393,13 @@
       "contest": "Weekly Contest 231"
     },
     {
+      "title": "Find Sum of Array Product of Magical Sequences",
+      "url": "https://leetcode.com/contest/weekly-contest-448/problems/find-sum-of-array-product-of-magical-sequences",
+      "rating": 2701,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 448"
+    },
+    {
       "title": "Count Paths That Can Form a Palindrome in a Tree",
       "url": "https://leetcode.com/contest/weekly-contest-355/problems/count-paths-that-can-form-a-palindrome-in-a-tree",
       "rating": 2699,
@@ -412,6 +419,13 @@
       "rating": 2677,
       "difficulty": "hard",
       "contest": "Weekly Contest 396"
+    },
+    {
+      "title": "Maximum Product of Subsequences With an Alternating Sum Equal to K",
+      "url": "https://leetcode.com/contest/weekly-contest-444/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k",
+      "rating": 2677,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 444"
     },
     {
       "title": "Count Substrings That Satisfy K-Constraint II",
@@ -475,6 +489,13 @@
       "rating": 2655,
       "difficulty": "hard",
       "contest": "Weekly Contest 294"
+    },
+    {
+      "title": "Find X Value of Array II",
+      "url": "https://leetcode.com/contest/weekly-contest-446/problems/find-x-value-of-array-ii",
+      "rating": 2647,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 446"
     },
     {
       "title": "Minimum Skips to Arrive at Meeting On Time",
@@ -685,6 +706,13 @@
       "rating": 2587,
       "difficulty": "hard",
       "contest": "Weekly Contest 235"
+    },
+    {
+      "title": "Minimum Pair Removal to Sort Array II",
+      "url": "https://leetcode.com/contest/weekly-contest-444/problems/minimum-pair-removal-to-sort-array-ii",
+      "rating": 2587,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 444"
     },
     {
       "title": "Maximum Strength of K Disjoint Subarrays",
@@ -939,6 +967,13 @@
       "contest": "Biweekly Contest 68"
     },
     {
+      "title": "Path Existence Queries in a Graph II",
+      "url": "https://leetcode.com/contest/weekly-contest-447/problems/path-existence-queries-in-a-graph-ii",
+      "rating": 2508,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 447"
+    },
+    {
       "title": "The Number of Good Subsets",
       "url": "https://leetcode.com/contest/biweekly-contest-60/problems/the-number-of-good-subsets",
       "rating": 2507,
@@ -979,6 +1014,13 @@
       "rating": 2495,
       "difficulty": "hard",
       "contest": "Weekly Contest 245"
+    },
+    {
+      "title": "Merge Operations for Minimum Travel Time",
+      "url": "https://leetcode.com/contest/weekly-contest-448/problems/merge-operations-for-minimum-travel-time",
+      "rating": 2494,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 448"
     },
     {
       "title": "Maximum Employees to Be Invited to a Meeting",
@@ -1527,6 +1569,13 @@
       "contest": "Weekly Contest 10"
     },
     {
+      "title": "Smallest Palindromic Rearrangement II",
+      "url": "https://leetcode.com/contest/weekly-contest-445/problems/smallest-palindromic-rearrangement-ii",
+      "rating": 2389,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 445"
+    },
+    {
       "title": "Maximum XOR With an Element From Array",
       "url": "https://leetcode.com/contest/weekly-contest-221/problems/maximum-xor-with-an-element-from-array",
       "rating": 2388,
@@ -1623,6 +1672,13 @@
       "rating": 2374,
       "difficulty": "hard",
       "contest": "Weekly Contest 320"
+    },
+    {
+      "title": "Maximum Profit from Valid Topological Order in DAG",
+      "url": "https://leetcode.com/contest/biweekly-contest-155/problems/maximum-profit-from-valid-topological-order-in-dag",
+      "rating": 2374,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 155"
     },
     {
       "title": "Minimum One Bit Operations to Make Integers Zero",
@@ -1784,6 +1840,13 @@
       "rating": 2345,
       "difficulty": "hard",
       "contest": "Biweekly Contest 133"
+    },
+    {
+      "title": "Shortest Path in a Weighted Tree",
+      "url": "https://leetcode.com/contest/biweekly-contest-154/problems/shortest-path-in-a-weighted-tree",
+      "rating": 2344,
+      "difficulty": "hard",
+      "contest": "Biweekly Contest 154"
     },
     {
       "title": "Count Beautiful Splits in an Array",
@@ -2185,6 +2248,13 @@
       "contest": "Weekly Contest 152"
     },
     {
+      "title": "Count Numbers with Non-Decreasing Digits ",
+      "url": "https://leetcode.com/contest/weekly-contest-445/problems/count-numbers-with-non-decreasing-digits",
+      "rating": 2268,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 445"
+    },
+    {
       "title": "Find Number of Coins to Place in Tree Nodes",
       "url": "https://leetcode.com/contest/biweekly-contest-120/problems/find-number-of-coins-to-place-in-tree-nodes",
       "rating": 2267,
@@ -2393,6 +2463,13 @@
       "rating": 2242,
       "difficulty": "hard",
       "contest": "Weekly Contest 279"
+    },
+    {
+      "title": "Concatenated Divisibility",
+      "url": "https://leetcode.com/contest/weekly-contest-447/problems/concatenated-divisibility",
+      "rating": 2242,
+      "difficulty": "hard",
+      "contest": "Weekly Contest 447"
     },
     {
       "title": "Minimum Space Wasted From Packaging",
@@ -3149,6 +3226,13 @@
       "rating": 2116,
       "difficulty": "hard",
       "contest": "Biweekly Contest 57"
+    },
+    {
+      "title": "Count Cells in Overlapping Horizontal and Vertical Substrings",
+      "url": "https://leetcode.com/contest/biweekly-contest-155/problems/count-cells-in-overlapping-horizontal-and-vertical-substrings",
+      "rating": 2116,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 155"
     },
     {
       "title": "Minimum Jumps to Reach Home",
@@ -4432,6 +4516,13 @@
       "contest": "Biweekly Contest 135"
     },
     {
+      "title": "Find X Value of Array I",
+      "url": "https://leetcode.com/contest/weekly-contest-446/problems/find-x-value-of-array-i",
+      "rating": 1981,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 446"
+    },
+    {
       "title": "K Empty Slots",
       "url": "https://leetcode.com/contest/leetcode-weekly-contest-51/problems/k-empty-slots",
       "rating": 1980,
@@ -5277,6 +5368,13 @@
       "rating": 1880,
       "difficulty": "medium",
       "contest": "Weekly Contest 43"
+    },
+    {
+      "title": "Number of Unique XOR Triplets II",
+      "url": "https://leetcode.com/contest/biweekly-contest-154/problems/number-of-unique-xor-triplets-ii",
+      "rating": 1880,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 154"
     },
     {
       "title": "Longest Happy Prefix",
@@ -6959,6 +7057,13 @@
       "contest": "Weekly Contest 414"
     },
     {
+      "title": "Implement Router",
+      "url": "https://leetcode.com/contest/weekly-contest-444/problems/implement-router",
+      "rating": 1719,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 444"
+    },
+    {
       "title": "Partition String Into Minimum Beautiful Substrings",
       "url": "https://leetcode.com/contest/biweekly-contest-108/problems/partition-string-into-minimum-beautiful-substrings",
       "rating": 1718,
@@ -7951,6 +8056,13 @@
       "rating": 1627,
       "difficulty": "medium",
       "contest": "Weekly Contest 288"
+    },
+    {
+      "title": "Number of Unique XOR Triplets I",
+      "url": "https://leetcode.com/contest/biweekly-contest-154/problems/number-of-unique-xor-triplets-i",
+      "rating": 1626,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 154"
     },
     {
       "title": "Prison Cells After N Days",
@@ -9430,6 +9542,13 @@
       "contest": "Weekly Contest 127"
     },
     {
+      "title": "Path Existence Queries in a Graph I",
+      "url": "https://leetcode.com/contest/weekly-contest-447/problems/path-existence-queries-in-a-graph-i",
+      "rating": 1480,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 447"
+    },
+    {
       "title": "Remove Sub-Folders from the Filesystem",
       "url": "https://leetcode.com/contest/weekly-contest-159/problems/remove-sub-folders-from-the-filesystem",
       "rating": 1479,
@@ -9687,6 +9806,13 @@
       "rating": 1449,
       "difficulty": "medium",
       "contest": "Weekly Contest 443"
+    },
+    {
+      "title": "Unit Conversion I",
+      "url": "https://leetcode.com/contest/biweekly-contest-155/problems/unit-conversion-i",
+      "rating": 1449,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 155"
     },
     {
       "title": "Find the Number of Distinct Colors Among the Balls",
@@ -11019,6 +11145,13 @@
       "contest": "Biweekly Contest 20"
     },
     {
+      "title": "Fill a Special Grid",
+      "url": "https://leetcode.com/contest/weekly-contest-448/problems/fill-a-special-grid",
+      "rating": 1314,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 448"
+    },
+    {
       "title": "Time Needed to Rearrange a Binary String",
       "url": "https://leetcode.com/contest/biweekly-contest-85/problems/time-needed-to-rearrange-a-binary-string",
       "rating": 1312,
@@ -11087,6 +11220,13 @@
       "rating": 1304,
       "difficulty": "medium",
       "contest": "Weekly Contest 213"
+    },
+    {
+      "title": "Make Array Non-decreasing",
+      "url": "https://leetcode.com/contest/weekly-contest-446/problems/make-array-non-decreasing",
+      "rating": 1304,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 446"
     },
     {
       "title": "Count Complete Subarrays in an Array",
@@ -11633,6 +11773,13 @@
       "rating": 1235,
       "difficulty": "medium",
       "contest": "Weekly Contest 326"
+    },
+    {
+      "title": "Smallest Palindromic Rearrangement I",
+      "url": "https://leetcode.com/contest/weekly-contest-445/problems/smallest-palindromic-rearrangement-i",
+      "rating": 1235,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 445"
     },
     {
       "title": "Find Smallest Common Element in All Rows",
@@ -12522,6 +12669,13 @@
       "rating": 1112,
       "difficulty": "medium",
       "contest": "Weekly Contest 175"
+    },
+    {
+      "title": "Count Covered Buildings",
+      "url": "https://leetcode.com/contest/weekly-contest-447/problems/count-covered-buildings",
+      "rating": 1112,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 447"
     },
     {
       "title": "Maximize Distance to Closest Person",
@@ -14687,6 +14841,13 @@
       "contest": "Weekly Contest 396"
     },
     {
+      "title": "Minimum Pair Removal to Sort Array I",
+      "url": "https://leetcode.com/contest/weekly-contest-444/problems/minimum-pair-removal-to-sort-array-i",
+      "rating": 761,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 444"
+    },
+    {
       "title": "Remove Vowels from a String",
       "url": "https://leetcode.com/contest/biweekly-contest-4/problems/remove-vowels-from-a-string",
       "rating": 760,
@@ -14813,6 +14974,13 @@
       "contest": "Weekly Contest 123"
     },
     {
+      "title": "Calculate Score After Performing Instructions",
+      "url": "https://leetcode.com/contest/weekly-contest-446/problems/calculate-score-after-performing-instructions",
+      "rating": 741,
+      "difficulty": "medium",
+      "contest": "Weekly Contest 446"
+    },
+    {
       "title": "Split a String in Balanced Strings",
       "url": "https://leetcode.com/contest/weekly-contest-158/problems/split-a-string-in-balanced-strings",
       "rating": 738,
@@ -14904,6 +15072,13 @@
       "contest": "Biweekly Contest 138"
     },
     {
+      "title": "Find Closest Person",
+      "url": "https://leetcode.com/contest/weekly-contest-445/problems/find-closest-person",
+      "rating": 717,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 445"
+    },
+    {
       "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
       "url": "https://leetcode.com/contest/weekly-contest-392/problems/longest-strictly-increasing-or-strictly-decreasing-subarray",
       "rating": 716,
@@ -14979,6 +15154,13 @@
       "rating": 708,
       "difficulty": "easy",
       "contest": "Biweekly Contest 131"
+    },
+    {
+      "title": "Minimum Operations to Make Array Sum Divisible by K",
+      "url": "https://leetcode.com/contest/biweekly-contest-154/problems/minimum-operations-to-make-array-sum-divisible-by-k",
+      "rating": 708,
+      "difficulty": "easy",
+      "contest": "Biweekly Contest 154"
     },
     {
       "title": "Substrings of Size Three with Distinct Characters",
@@ -15399,6 +15581,13 @@
       "rating": 661,
       "difficulty": "easy",
       "contest": "Biweekly Contest 48"
+    },
+    {
+      "title": "Maximum Product of Two Digits",
+      "url": "https://leetcode.com/contest/weekly-contest-448/problems/maximum-product-of-two-digits",
+      "rating": 661,
+      "difficulty": "easy",
+      "contest": "Weekly Contest 448"
     },
     {
       "title": "Set Mismatch",
@@ -15910,6 +16099,13 @@
       "rating": 585,
       "difficulty": "easy",
       "contest": "Weekly Contest 156"
+    },
+    {
+      "title": "Find the Most Common Response",
+      "url": "https://leetcode.com/contest/biweekly-contest-155/problems/find-the-most-common-response",
+      "rating": 585,
+      "difficulty": "medium",
+      "contest": "Biweekly Contest 155"
     },
     {
       "title": "Find the Difference of Two Arrays",
@@ -16813,34 +17009,6 @@
       "rating": 337,
       "difficulty": "easy",
       "contest": "Weekly Contest 249"
-    },
-    {
-      "title": "Minimum Pair Removal to Sort Array I",
-      "url": "https://leetcode.com/contest/weekly-contest-444/problems/minimum-pair-removal-to-sort-array-i",
-      "rating": 0,
-      "difficulty": "easy",
-      "contest": "Weekly Contest 444"
-    },
-    {
-      "title": "Implement Router",
-      "url": "https://leetcode.com/contest/weekly-contest-444/problems/implement-router",
-      "rating": 0,
-      "difficulty": "medium",
-      "contest": "Weekly Contest 444"
-    },
-    {
-      "title": "Maximum Product of Subsequences With an Alternating Sum Equal to K",
-      "url": "https://leetcode.com/contest/weekly-contest-444/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k",
-      "rating": 0,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 444"
-    },
-    {
-      "title": "Minimum Pair Removal to Sort Array II",
-      "url": "https://leetcode.com/contest/weekly-contest-444/problems/minimum-pair-removal-to-sort-array-ii",
-      "rating": 0,
-      "difficulty": "hard",
-      "contest": "Weekly Contest 444"
     }
   ]
 }
